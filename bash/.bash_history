@@ -1949,3 +1949,19 @@ rm -rf .newsboat
 ls -a
 #1708255651
 mkdir bash
+ls
+cd
+ls
+ls -a
+rm.bash_history
+rm .bash_history 
+ls
+ls -a
+ls -a
+cd .dotfiles/
+stow bash
+cd ../
+#1708256409
+cd .dotfiles/
+#1708256413
+nvim README.md 

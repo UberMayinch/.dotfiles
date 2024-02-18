@@ -17,6 +17,10 @@ i3, nvim, polybar, picom
 
 ```ln -s ~/Dotfiles/ ~/.config```
 
+The directory structure has been created in such a way that this process is very easy to do with GNU stow. 
+Use the following command for whatever package you want to use my configuration with (after ensuring that the .dotfiles directory has been cloned in the home directory):
+
+```stow <package-name>```
 
 
 
