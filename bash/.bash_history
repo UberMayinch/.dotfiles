@@ -1965,3 +1965,265 @@ cd ../
 cd .dotfiles/
 #1708256413
 nvim README.md 
+git clone https://github.com/UberMayinch/.dotfiles.git~
+sudo apt install git
+git clone https://github.com/UberMayinch/.dotfiles.git~
+git clone https://github.com/UberMayinch/.dotfiles
+ls
+cd .dotfiles
+sudo apt install stow
+stow bash
+cd ../
+ls
+rm .bash*
+cd .dotfiles/
+stow bash
+cd ../
+nvim 
+sudo apt install neovim
+cd .dotfiles/
+stow nvim
+cd ../
+nvim .bashrc
+nvim -v
+sudo apt remove nvim
+sudo apt install nvim 
+sudo apt install neovim
+sudo apt remove neovim
+sudo apt autoremove
+nvim
+nvim
+neovim
+ls
+nvim
+sudo add-apt-repository ppa:neovim-ppa/stable -y
+sudo apt update
+clear
+ls
+clear
+chsh bash
+bash
+sudo apt install neovim -y
+nvim
+sudo apt remove nvim
+sudo apt remove neovim
+sudo apt autoremove
+sudo flathub install neovim
+sudo flatpal install neovim
+sudo flatpak install neovim
+sudo flatpak install nvim
+sudo flatpak remote-add --if-not-exists flathub
+sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+sudo flatpak install neovim
+clear
+flatpak install flathub io.neovim.nvim -y
+sudo flatpak install neovim
+sudo flatpak install neovim
+flatpak install flathub io.neovim.nvim -y
+flatpak install flathub io.neovim.nvim -y
+NVIM
+nvim
+neovim
+flatpak install neovim
+io.neovim.nvim
+flatpak run io.neovim.nvim
+flatpak run io.neovim.nvim
+flatpak remove io.neovim.nvim
+neovim
+nvim
+flatpak run nvim
+flatpak run neovim
+flatpak list
+flatpak run io.neovim.nvim
+#1708412767
+sudo apt install snap
+#1708412785
+sudo snap install neovim
+#1708412789
+sudo snapd install neovim
+#1708412823
+sudo add-apt-repository ppa:neovim-ppa/unstable -y
+#1708412837
+sudo apt update
+#1708412845
+sudo apt install neovim
+#1708412858
+nvim
+#1708412897
+nvim .bashrc
+#1708412937
+echo $HOME
+#1708412941
+nvim .bashrc
+#1708412953
+source .bashrc
+#1708412960
+echo $HOME
+#1708412963
+echo $OSH
+#1708412968
+nvim .bashrc
+#1708413001
+source .bashrc
+#1708413014
+nvim .bashrc
+#1708413039
+source .bashrc
+#1708413046
+realpath $HOME
+#1708413066
+realpath $HOME + /.oh-my-bash 
+#1708413087
+realpath $HOME + ¨/.oh-my-bash 
+#1708413097
+realpath ($HOME) + ¨/.oh-my-bash 
+#1708413154
+export OSH=$(realpath "$HOME/.oh-my-bash")
+#1708413158
+echo $OSH
+#1708413167
+nvim .bashrc
+#1708413186
+source .bashrc
+#1708413248
+sudo apt install fzf
+#1708413272
+apt show fzf
+#1708413287
+/usr/share
+#1708413291
+cd fzf
+#1708413341
+sudo apt remove fzf
+#1708413360
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+#1708413362
+~/.fzf/install
+#1708413400
+nvim .bashrc
+#1708413404
+cd
+#1708413406
+nvim .bashrc
+#1708413430
+nvim .bash_profile 
+#1708413441
+source .bashrc
+#1708413450
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+#1708413478
+nvim .bash_profile 
+#1708413498
+nvim .bashrc
+#1708413478
+nvim .bash_profile 
+#1708413527
+nvim .bashrc
+#1708413534
+source .bashrc
+#1708413541
+cd /usr/share/fzf
+#1708413543
+cd /usr/share
+#1708413787
+cd
+#1708413789
+ls -al
+#1708413799
+rm -rf .fzf
+#1708413802
+rm .fzf
+#1708413807
+rm .fzf*
+#1708413808
+ls -a
+#1708413815
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+#1708413828
+cd .fzf
+#1708413835
+./install 
+#1708413853
+source .bashrc
+#1708413856
+cd ../
+#1708413857
+source .bashrc
+#1708413875
+cd .oh-my-bash/custom/
+#1708413880
+cd completions/
+#1708413884
+nvim example.completion.sh 
+#1708413891
+tree
+#1708413895
+sudo apt install ea
+#1708413897
+sudo apt install exa
+#1708413902
+tree
+#1708413914
+cd ../
+#1708413926
+nvim custom.sh 
+#1708413934
+source .bashrc
+#1708413936
+cd
+#1708413937
+source .bashrc
+#1708413943
+nvim .bashrc
+#1708413966
+cd
+#1708413969
+cd .oh-my-bash/
+#1708413972
+cd completions/
+#1708494435
+nvim .bashrc
+#1708494448
+cd .oh-my-bash/
+#1708494450
+nvim oh-my-bash.sh 
+#1708494461
+cd completions/
+#1708494464
+cd ../
+#1708494466
+cd custom/
+#1708494471
+nvim custom.sh 
+#1708494504
+cd ../
+#1708494510
+rm CODE_OF_CONDUCT.md 
+#1708494512
+rm CONTRIBUTING.md 
+#1708494516
+rm LICENSE.md 
+#1708494519
+rm README.md 
+#1708494520
+ls -a
+#1708494534
+pwd
+#1708494537
+cd ../
+#1708494541
+cd .dotfiles
+#1708494546
+cd bash/
+#1708494547
+sl
+#1708494551
+ls a-
+#1708494554
+ls -a
+#1708494559
+cd .oh-my-bash/
+#1708494561
+ls -a
+#1708494589
+cd ../

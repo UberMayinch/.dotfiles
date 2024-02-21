@@ -5,7 +5,7 @@ case $- in
 esac
 
 # Path to your oh-my-bash installation.
-export OSH='/home/ubermayinch/.oh-my-bash'
+export OSH=$(realpath "$HOME/.oh-my-bash")
 
 #Remember infinite commands in the bash_profile (set to whatever you want)
 export HISTFILESIZE=-1
@@ -152,3 +152,5 @@ source $OSH_CUSTOM/custom.sh
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
