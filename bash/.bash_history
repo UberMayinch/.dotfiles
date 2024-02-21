@@ -2465,3 +2465,101 @@ dfs
 tree
 #1708513433
 dfs
+#1708513646
+ls
+#1708513649
+ls
+#1708513652
+ls -a
+#1708513655
+nvim .bashrc
+#1708513670
+echo $OSH
+#1708513680
+cd .oh-my-bash
+#1708513681
+ls
+#1708513687
+./oh-my-bash.sh
+#1708513691
+ls -a
+#1708513697
+dfs
+#1708513699
+cd ../
+#1708513702
+cd .dotfiles/
+#1708513702
+ls
+#1708513705
+cd bash
+#1708513705
+ls
+#1708513706
+ls -a
+#1708513711
+cd .oh-my-bash/
+#1708513711
+ls
+#1708513712
+ls -a
+#1708513721
+cd
+#1708513721
+ls
+#1708513724
+nvim .oh-my-bash
+#1708513753
+rm -rf .dotfiles/
+#1708513754
+ls -a
+#1708513760
+rm .bash*
+#1708513767
+rm .inputrc
+#1708513768
+ls
+#1708513769
+ls -a
+#1708513777
+rm -rf .oh-my-bash 
+#1708513802
+git clone https://github.com/UberMayinch/.dotfiles.git
+#1708513807
+cd .dotfiles/
+#1708513810
+stow bash
+#1708513812
+cd ../
+#1708513815
+source .bashrc
+#1708513827
+ls -a
+#1708513858
+rm -rf .fzf
+#1708513859
+ls -a
+#1708513884
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+#1708513886
+~/.fzf/install
+#1708513922
+source .bashrc
+#1708513941
+set edit mode vi
+#1708513975
+dfs
+#1708513976
+cd
+#1708513985
+cd .dotfiles/
+#1708513988
+cd bash
+#1708513992
+nvim .inputrc
+#1708513994
+ls 0a
+#1708513996
+ls -a
+#1708513999
+nvim .inputrc
