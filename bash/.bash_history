@@ -2227,3 +2227,241 @@ cd .oh-my-bash/
 ls -a
 #1708494589
 cd ../
+#1708494595
+git add .
+#1708494600
+git commit -m "changes"
+#1708494617
+git config --global --edit
+#1708494641
+set editor
+#1708494644
+set editor nvim
+#1708494649
+git config --global --edit
+#1708495564
+nm-applet
+#1708495872
+sudo apt install blur my shell
+#1708509093
+ncpa.cpl
+#1708509301
+iw list
+#1708509304
+sudo apt install iw
+#1708509313
+iw list
+#1708509395
+cd .oh-my-bash/
+#1708509402
+cd custom/
+#1708509405
+nvim custom.sh 
+#1708509411
+cd completions/
+#1708509413
+nvim example.completion.sh 
+#1708509417
+cd ../
+#1708509419
+cd plugins/
+#1708509426
+l
+#1708509431
+tree
+#1708509435
+cd example/
+#1708509437
+nvim 
+#1708509440
+nvim example.plugin.sh 
+#1708509447
+cd ../
+#1708509448
+../
+#1708509452
+nvim custom.sh 
+#1708509475
+cd
+#1708509477
+source .bashrc
+#1708509492
+cd /usr/share/fzf
+#1708509498
+nvim .bashrc
+#1708509524
+apt install ttf
+#1708509529
+sudo apt install ttf
+#1708509537
+sudo apt install ttf-firacode
+#1708509759
+source .bashrc
+#1708509782
+cd .oh-my-bash/
+#1708509784
+cd custom/
+#1708509786
+cd completions/
+#1708509789
+nvim example.completion.sh 
+#1708509793
+cd ../
+#1708509794
+cd plugins/
+#1708509800
+cd example/
+#1708509802
+nvim example.plugin.sh 
+#1708509818
+cd
+#1708509820
+source .bashrc
+#1708510042
+l
+#1708510048
+exa
+#1708510053
+exa --tree
+#1708510056
+exa --tree --icons
+#1708510063
+/usr/share/
+#1708510313
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/install_manual.sh)"
+#1708510426
+exa --tree --icons
+#1708510540
+cd Downloads/
+#1708510544
+unzip JetBrainsMono.zip 
+#1708510559
+mv JetBrainsMono.zip ../
+#1708510574
+rm JetBrainsMono*
+#1708510578
+cd ../
+#1708510607
+mv JetBrainsMono.zip /usr/share
+#1708510614
+sudo mv JetBrainsMono.zip /usr/share/fonts
+#1708510632
+cd /usr/share/fonts
+#1708510654
+cd /usr/local/share/fonts
+#1708510656
+ls -a
+#1708510661
+cd -
+#1708510664
+cd X11/
+#1708510666
+cd ../
+#1708510689
+mv JetBrainsMono.zip ~/.local/share/fonts
+#1708510695
+sudo mv JetBrainsMono.zip ~/.local/share/fonts
+#1708510702
+~/.local/share/fonts
+#1708510711
+mv JetBrainsMono.zip fonts
+#1708510714
+cd fonts
+#1708510718
+ls -a
+#1708510723
+cd ttf
+#1708510734
+cd ../
+#1708510737
+cd variable/
+#1708510746
+cd ../
+#1708510768
+unzip JetBrainsMono.zip 
+#1708510774
+nvim OFL.txt 
+#1708510789
+rm OFL.txt README.md JetBrainsMono.zip
+#1708510815
+nvim
+#1708510821
+cd
+#1708510823
+nvim .bashrc
+#1708511705
+gnome-shell extensoins
+#1708511717
+gnome-shell-extensions
+#1708511744
+gnome-shell-extension-tool
+#1708511749
+gnome-shell-extension-tool -h
+#1708511762
+gnome-shell-extension-tool -e blur-my-shell
+#1708511849
+gnome-shell-extension-tool -e blur
+#1708513135
+sudo apt install rvm
+#1708513143
+LS
+#1708513147
+cd Desktop/
+#1708513189
+cd Projects/
+#1708513209
+.gitconfig
+#1708513210
+cd
+#1708513212
+.gitconfig
+#1708513218
+nvim .gitconfig
+#1708513256
+df
+#1708513266
+cd custom
+#1708513268
+cd .oh-my-bash/
+#1708513270
+cd custom/
+#1708513276
+nvim aliases/
+#1708513292
+df
+#1708513302
+nvim aliases/
+#1708513315
+dfs
+#1708513322
+cd
+#1708513325
+source .bashrc
+#1708513326
+dfs
+#1708513330
+tree
+#1708513338
+nvim .bashrc
+#1708513363
+echo $OSH_CUSTOM
+#1708513374
+nvim .bashrc
+#1708513389
+cd $OSH_CUSTOM
+#1708513392
+nvim
+#1708513397
+nvim example.sh 
+#1708513400
+nvim custom.sh 
+#1708513417
+cd
+#1708513418
+source .bashrc
+#1708513420
+dfs
+#1708513426
+tree
+#1708513433
+dfs
