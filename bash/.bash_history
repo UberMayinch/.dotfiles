@@ -2563,3 +2563,845 @@ ls 0a
 ls -a
 #1708513999
 nvim .inputrc
+#1708514011
+git add .
+#1708514015
+git commit -m "inputrc"
+#1708514019
+git push origin
+#1708514027
+git commit -m "inputrc"
+#1708514029
+git push origin
+#1708514053
+cd
+#1708514060
+nvim .inputrc
+#1708514070
+source .inputrc
+#1708514102
+set editing-mode vi
+#1708514153
+cd Desktop/
+#1708514156
+projects
+#1708514158
+Projects
+#1708514164
+git clone https://github.com/UberMayinch/ubermayinch.github.io.git
+#1708514169
+cd ubermayinch.github.io/
+#1708514175
+sudo apt install ruby
+#1708514195
+sudo apt install bundler
+#1708514204
+bundle install
+#1708514238
+sudo bundle install
+#1708514264
+jekyll serve
+#1708514324
+cd ../
+#1708514366
+git clone https://github.com/UberMayinch/nerd-corner.git
+#1708514372
+cd nerd-corner/
+#1708514373
+ls -a
+#1708514870
+Desktop
+#1708514871
+Projects
+#1708514876
+rm -rf nerd-corner/
+#1708515911
+cd
+#1708515916
+nvim index.html
+#1708515925
+nvim styles.css
+#1708515942
+brave index.html
+#1708515947
+brave-browser index.html
+#1708516024
+mv index.html Desktop/
+#1708516030
+mv styles.css Desktop/
+#1708516178
+cd Desktop/
+#1708516180
+cd Projects/
+#1708516188
+mkdir nerd-corner
+#1708516190
+cd nerd-corner/
+#1708516195
+gem install jekyll bundler
+#1708516231
+ruby -v
+#1708516294
+sudo apt remove ruby
+#1708516316
+sudo rm /var/lib/gems
+#1708516320
+sudo rm -rf /var/lib/gems
+#1708516324
+sudo apt remove ruby
+#1708516329
+sudo apt autoremove
+#1708516338
+sudo apt install rvm
+#1708516351
+sudo apt install rbenv
+#1708516367
+ruby -v
+#1708516377
+cd ../ubermayinch.github.io/
+#1708516380
+bundle install
+#1708516494
+cd ../
+#1708516500
+rm -r nerd-corner/
+#1708516502
+cd
+#1708516510
+sudo apt remove rbenv
+#1708516527
+sudo apt autoremove
+#1708516533
+ruby -v
+#1708516539
+nvim .bashrc
+#1708516598
+\curl -sSL https://get.rvm.io | bash -s stable --ruby
+#1708516621
+sudo apt install gpg
+#1708516631
+\curl -sSL https://get.rvm.io | bash
+#1708516655
+ls -a
+#1708516674
+source /home/chinmay/.rvm/scripts/rvm
+#1708516678
+rvm -v
+#1708516681
+ruby -v
+#1708516733
+rvm install ruby
+#1708516848
+rvm docs generate-ri
+#1708516864
+cd Desktop/Projects/
+#1708516876
+ruby -v
+#1708516880
+ruby install gems
+#1708516882
+ruby install gem
+#1708516886
+cd
+#1708516906
+gem install bundler
+#1708516912
+cd -
+#1708516914
+cd ubermayinch.github.io/
+#1708516919
+bundle install
+#1708516939
+jekyll serve
+#1708516966
+jekyll -v
+#1708516976
+gem install jekyll
+#1708517018
+jekyll serve
+#1708517032
+rvm install ruby 3.1
+#1708517142
+ruby -v
+#1708517151
+bundle exec jekyll serve
+#1708517164
+jekyll serve
+#1708517194
+rvm uninstall ruby 3.1
+#1708517201
+rvm help
+#1708517215
+delete ruby 3.1
+#1708517220
+rvm remove ruby 3.1
+#1708517231
+rvm install ruby 3.0
+bash
+#1708517825
+bundle install
+#1708517842
+jekyll serve
+#1708517874
+bundle exec jekyll serve
+#1708517896
+gem install openssl
+#1708518018
+bundle exec jekyll serve
+#1708518038
+jekyll serve
+#1708518045
+xterm
+clear
+bash
+bash
+#1708518158
+bundle exec jekyll serve
+#1708518243
+/home/chinmay/.rvm/gems/ruby-3.0.6/bin/jekyll
+#1708518268
+jekyll -s
+#1708518284
+jekyll 
+#1708518288
+jekyll serve
+#1708518310
+gem install bundler
+#1708518316
+jekyll serve
+#1708518328
+gem install openssl
+#1708518367
+jekyll serve
+#1708518402
+cd /home/chinmay/.rvm/rubies/ruby-3.0.6/lib/ruby/3.0.0/net
+#1708518415
+nvim http.rb 612
+#1708518511
+pkill nvim
+#1708518518
+cd -
+#1708518533
+cd ../
+#1708518539
+mkdir nerd-corner
+#1708518629
+sudo apt install npm
+#1708518746
+sudo apt install android-tools-adb android-tools-fastboot
+#1708518807
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+#1708518881
+npm install KaTex
+#1708518890
+npm install katex
+#1708519052
+cd
+#1708519058
+cd Downloads
+#1708519073
+mv android-studio-2023.1.1.28-linux.tar.gz /usr/local
+#1708519080
+sudo mv android-studio-2023.1.1.28-linux.tar.gz /usr/local
+#1708519086
+cd /usr/local
+#1708519220
+cd /usr/bin
+#1708519226
+cd -
+#1708519475
+tar -xzf android-studio-2023.1.1.28-linux.tar.gz 
+#1708519488
+sudo tar -xzf android-studio-2023.1.1.28-linux.tar.gz 
+#1708519515
+rm android-studio-2023.1.1.28-linux.tar.gz 
+#1708519526
+android-studio/bin
+#1708519535
+./studio.sh
+#1708575192
+nvim
+#1708577251
+tree
+#1708577658
+python3 
+#1708577674
+sudo apt install pip
+#1708577750
+pip install numpy
+#1708578047
+sudo snap install pycharm
+#1708578054
+snap install pycharm
+#1708578061
+sudo apt install snapd
+#1708578115
+snap install pycharm
+#1708578125
+snapd install pycharm
+#1708578144
+sudo snap install pycharm-community --classic
+#1708579993
+pycharm
+#1708581174
+LS
+#1708581178
+pylint kadane.py
+#1708581186
+pip install pyline
+#1708581189
+pip install pylint
+#1708581210
+pylint kadane.py 
+#1708581460
+mv kadane.py kadaneOld.py
+#1708581496
+touch pylint_out.txt
+#1708581500
+nvim pylint_out.txt 
+#1708581512
+cp kadaneOld.py kadane.py
+#1708581605
+pylint kadane.py
+#1708581694
+cd Desktop/College/DASS/
+#1708581697
+cd pythonProject/
+#1708581762
+pytest test_subarray_sum
+#1708581767
+pip install pytest
+#1708581835
+touch test_subarray_sum.py
+#1708581843
+mv kadane.py subarray_sum.py
+#1708581882
+pytest
+#1708581908
+pip install os
+#1708581923
+pytest -s
+#1708581970
+pytest
+#1708581975
+pytest -S
+#1708581977
+pytest -s
+#1708580022
+pycharm-community
+#1708582003
+cd Desktop/College/
+#1708582005
+cd DASS/
+#1708582008
+cd pythonProject/
+#1708582014
+nvim pylint_out.txt 
+#1708582018
+nvim subarray_sum.py 
+#1708582042
+pytest
+#1708582049
+pip install pytest
+#1708582053
+pytest
+#1708582062
+pycharm-community
+#1708587748
+cd Desktop/
+#1708587750
+cd College/DASS/
+#1708587754
+cd pythonProject/
+#1708587757
+cd ../
+#1708587767
+mv pythonProject/ tutA2
+#1708587768
+sl
+#1708587776
+zip tutA2/ 2022113005
+#1708587780
+zip tutA2/ 
+#1708587787
+cd tutA2/
+#1708587791
+zip * 2022113005
+#1708587887
+cd Desktop/College/
+#1708587889
+cd DASS/
+#1708587891
+cd tutA2/
+#1708587893
+cd 2022113005/
+#1708587899
+zip * 2022113005
+#1708587904
+zip -r * 2022113005
+#1708587910
+cd -
+#1708587918
+cd Desktop/College/DASS/
+#1708587920
+cd tutA2/
+#1708587942
+cd 2022113005/
+#1708587962
+zip 2022113005 *
+#1708587969
+mv * ../
+#1708587972
+cd ../
+#1708587979
+rm -r 2022113005
+#1708670723
+python3
+#1708670731
+cd Desktop/College/DASS/
+#1708670734
+cd tutA2/
+#1708670741
+python3 kadaneOld.py 
+#1708670753
+pytest
+#1708670761
+pytest subarray_sum.py 
+#1708670775
+pylint subarray_sum.py 
+#1708670782
+pip install pylint
+#1708670787
+echo $PATH
+#1708670805
+echo $PYTHON
+#1708670808
+echo $PYTHONPATH
+#1708670858
+python
+#1708670860
+python3
+#1708670924
+/opt/local
+#1708670926
+cd 
+#1708670929
+cd /opt
+#1708670931
+ls -a
+#1708670948
+/usr/local
+#1708670951
+cd bin
+#1708670962
+cd ../
+#1708670972
+pip install numpy
+#1708670982
+pip install pandas
+#1708671156
+cd
+#1708671158
+df
+#1708671165
+cd Desktop/College/DASS/
+#1708671168
+cd tutA2/
+#1708671174
+pylint kadaneOld.py 
+#1708671183
+pylint subarray_sum.py 
+#1708671228
+cd
+#1708671233
+sudo apt install julia
+#1708671359
+julia
+#1708671383
+cd Desktop/Projects/
+#1708671410
+mkdir simulations
+#1708671414
+cd simulations/
+#1708671418
+code .
+#1708671421
+codium .
+#1708671558
+mv package-lock.json vdp.jl
+#1708671572
+cd simulations/
+#1708671574
+rm package-lock.json 
+#1708671580
+open vdp.jl
+#1708671614
+julia vdp.jl
+#1708671620
+julia
+bash
+#1708671646
+cd simulations/
+#1708671649
+julia vdp.jl
+#1708671651
+julia
+#1708671627
+julia
+#1708671675
+vdp.jl
+#1708671681
+julia vdp.jl
+#1708671886
+Ijulia
+#1708671888
+julia
+#1708672016
+sudo apt uninstall julia
+#1708672021
+sudo apt remove julia
+#1708672025
+sudo apt autoremove
+#1708672034
+sudo apt install juliaup
+#1708672051
+echo $PATH
+#1708672071
+curl -fsSL https://install.julialang.org | sh
+#1708672204
+. /home/chinmay/.bash_profile
+#1708672207
+ls -a
+#1708672209
+cd
+#1708672290
+cd Desktop/College/DASS/
+#1708672292
+git clone https://github.com/DASS-Spring-2024/dass-project-spring-2024-team-29.git
+#1708672460
+cd dass-project-spring-2024-team-29/
+#1708672463
+cd code
+#1708672466
+cd cart_genie/
+#1708672480
+cd lib
+#1708672500
+cd features/
+#1708672513
+cd auth
+#1708672523
+cd screens/
+#1708672523
+la
+#1708672533
+nvim signup_screen.dart 
+bash
+julia
+bash
+#1708689587
+cd Desktop/College/DASS/
+#1708689764
+Android 
+#1708689770
+cd Sdk
+#1708689817
+android-studio/bin
+#1708689834
+cd /usr/local
+#1708689840
+android-studio/
+#1708689841
+cd
+#1708689843
+cd -
+#1708689862
+cd bin
+#1708689868
+studio.sh
+#1708689871
+./studio.sh
+#1708690465
+pwd
+#1708690520
+alias Android='/usr/local/android-studio/bin/./studio.sh'
+#1708690528
+pkill bash
+#1708690534
+ps
+#1708690537
+Android
+#1708690543
+cd
+#1708689590
+nvim MoM.md
+#1708690693
+cd
+#1708690695
+cd -
+#1708690702
+mv MoM.md dass-project-spring-2024-team-29/
+#1708690707
+cd dass-project-spring-2024-team-29/
+#1708690715
+mv MoM.md MoM
+#1708690730
+mv MoM.md MoM-23-2.md
+#1708690742
+mv MoM-23-2.md MoM
+#1708690752
+cd MoM
+#1708690755
+git add .
+#1708690760
+git commit -m "added mom"
+#1708690762
+git push origin
+#1708702282
+Android
+#1708702287
+cd Sdk
+#1708702291
+cd emulator/
+#1708702296
+./emulator
+#1708702321
+alias Android='/usr/local/android-studio/bin/./studio.sh'
+#1708702332
+cd
+#1708702337
+cd .dotfiles
+#1708702341
+cd bash
+#1708702349
+cd .oh-my-bash/
+#1708702352
+cd custom
+#1708702356
+cd aliases/
+#1708702359
+nvim example.aliases.sh 
+#1708702404
+dfs
+#1708702405
+cd
+#1708702409
+source .bashrc
+#1708702411
+Android
+#1708702433
+sudo snapd install juliaup
+#1708702441
+sudo snap install juliaup
+#1708702493
+curl -fsSL https://install.julialang.org | sh
+#1708702503
+juliaup
+#1708702510
+juliaup -v
+#1708702516
+juliaup -V
+#1708702519
+juliaup install
+#1708702525
+juliaup help
+#1708702552
+juliaup add
+#1708702564
+juliaup update
+#1708702568
+julia
+#1708702580
+cd Desktop/Projects/
+#1708702584
+cd simulations/
+#1708702588
+julia vdp.jl
+#1708702817
+nvim vdp.jl
+#1708702848
+sudo apt install code
+#1708702901
+codium
+#1708702942
+code .
+#1708703081
+julia vdp.jl
+#1708703491
+julia
+#1708703753
+julia vdp.jl
+#1708703773
+julia
+#1708703845
+julia vdp.jl
+#1708704111
+julia 
+#1708778970
+cd Desktop/College/
+#1708778975
+mkdir MDL
+#1708779850
+cd Downloads/
+#1708779858
+mv 2022113005.zip ../Desktop/College/MDL
+#1708779863
+cd ../Desktop/College/MDL
+#1708779866
+unzip 2022113005.zip 
+#1708779884
+code .
+#1708779948
+pip install pandas
+#1708779956
+pip install numpy
+#1708779959
+pip install sklearn
+#1708779984
+pip install sci-kit
+#1708779989
+pip install sci-kit-learn
+#1708779992
+pip install scikit-learn
+#1708780192
+pip install pickle
+#1708780196
+pip install functools
+#1708780200
+pip install matplotlib
+#1708780219
+pip install jupyter
+#1708780399
+cd Desktop/College/
+#1708780405
+mv data.pickle MDL
+#1708780407
+cd MDL
+#1708780416
+mv CartGenie_srs_V1.1.pdf ../DASS/
+#1708780541
+pip install tabulate
+#1708780752
+cd
+#1708780755
+cd Downloads
+#1708780761
+unzip 2022113005.zip 
+#1708780775
+jupyter notebook
+#1708780300
+jupyter notebook
+#1708789056
+cd Do
+#1708789062
+cd Downloads
+#1708789070
+mv Peter\ Atkins\,\ Julio\ de\ Paula\ -\ Atkins\'\ Physical\ chemistry-W.\ H.\ Freeman\ \(2010\).pdf ../Desktop/College/
+#1708789089
+mv Randal\ E.\ Bryant\,\ David\ R.\ O\'Hallaron\ -\ Computer\ Systems_\ A\ Programmer\'s\ Perspective-Pearson\ \(2015\).pdf ../Desktop/College/
+#1708792505
+nvim -v
+#1708806369
+cd Desktop/Projects/
+#1708806372
+cd nerd-corner/
+#1708806379
+nvim script.py
+#1708806408
+nvim test.md
+#1708806457
+script.py < test.md
+#1708806466
+python3 script.py <test.md
+#1708806471
+pip install markdown
+#1708806474
+python3 script.py <test.md
+#1708806497
+python3 script.py 
+#1708806516
+nvim script.py
+#1708806570
+python3 script.py 
+#1708806577
+nvim script.py
+#1708806649
+python3 script.py 
+#1708806657
+brave output.html
+#1708806663
+brave-browser output.html
+#1708806732
+nvim script.py
+#1708806891
+rm output.html 
+#1708806896
+touch index.html
+#1708807064
+nvim blog-script.py
+#1708807073
+python3 blog-script.p
+#1708807075
+python3 blog-script.py
+#1708807086
+nvim index.html 
+#1708807374
+rm script.py
+#1708807377
+nvim script.py
+#1708807390
+python3 script.py
+#1708807408
+new.md
+#1708807410
+nvim new.md
+#1708807422
+python3 script.py
+#1708807434
+nvim index.html
+#1708807468
+ls -a
+#1708807485
+rm new.md test.md
+#1708807492
+rm new.html test.html
+#1708807498
+rm blog-script.py 
+#1708807595
+nvim script.py
+#1708807821
+nvim 2024-2-24-RandWalk&RiemanZ.md
+#1708807832
+nvim 2024-2-24-RandWalkRiemanZ.md
+#1708808073
+script.py
+#1708808077
+python script.py
+#1708808081
+python3 script.py
+#1708809580
+cd
+#1708809587
+nvim .pac
+#1708809591
+xclip .pac
+#1708809598
+sudo apt install xclip
+#1708809605
+xclip .pac
+#1708809625
+dfs
+#1708809631
+cd bash
+#1708809633
+ls -a
+#1708809638
+nvim .oh-my-bash/
+#1708809670
+cd
+#1708809673
+source .bashrc
+#1708809675
+gh
+#1708809686
+dfs
