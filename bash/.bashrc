@@ -126,11 +126,11 @@ source "$OSH"/oh-my-bash.sh
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
+if [[ -n $SSH_CONNECTION ]]; then
+	export EDITOR='nvim'
+else
+	export EDITOR='nvim'
+fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
@@ -160,12 +160,11 @@ export PATH="$PATH:$HOME/.rvm/bin"
 # !! Contents within this block are managed by juliaup !!
 
 case ":$PATH:" in
-    *:/home/chinmay/.juliaup/bin:*)
-        ;;
+*:/home/chinmay/.juliaup/bin:*) ;;
 
-    *)
-        export PATH=/home/chinmay/.juliaup/bin${PATH:+:${PATH}}
-        ;;
+*)
+	export PATH=/home/chinmay/.juliaup/bin${PATH:+:${PATH}}
+	;;
 esac
 
 # <<< juliaup initialize <<<

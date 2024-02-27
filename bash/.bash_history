@@ -3683,3 +3683,65 @@ ls -a
 emacs
 #1709038763
 dfs
+#1709039855
+rm -rf .dotfiles && git clone https://github.com/UberMayinch/.dotfiles.git
+#1709039868
+emacs
+#1709039881
+dfs
+#1709050167
+okular Downloads/\[Donald_Voet\,_Judith_G._Voet\]_Biochemistry_\(Fourth\(BookZZ.org\).pdf &
+#1709050625
+okular Desktop/College/Carl\ Branden\,\ John\ Tooze\ -\ Introduction\ to\ Protein\ Structure-Garland\ Science\ \(1999\).pdf &
+#1709052965
+sudo apt install breeze-icon-theme
+#1709061644
+sudo apt install pop-extra-icon-theme
+#1709071118
+emacs
+#1709071204
+ls -a
+#1709071237
+emacs .emacs.d
+#1709072082
+nvim
+#1709072101
+emacs -nw
+#1709072222
+cd Desktop/CS
+#1709072240
+okular \(MIT\ Electrical\ Engineering\ and\ Computer\ Science\)\ Hal\ Abelson_\ Gerald\ Jay\ Sussman\ -\ Structure\ and\ Interpretation\ of\ Computer\ Programs-MIT\ Press\ \(2016\).pdf 
+#1709072270
+racket
+#1709072270
+racket
+#1709072279
+
+#1709072222
+cd Desktop/CS
+#1709072240
+okular \(MIT\ Electrical\ Engineering\ and\ Computer\ Science\)\ Hal\ Abelson_\ Gerald\ Jay\ Sussman\ -\ Structure\ and\ Interpretation\ of\ Computer\ Programs-MIT\ Press\ \(2016\).pdf 
+#1709072270
+racket
+#1709072279
+
+#1709072325
+
+#1709072336
+
+#1709072343
+
+#1709072371
+
+#1709072371
+
+#1709072419
+
+#1709072425
+cd
+#1709072426
+dfs
+#1709072429
+cd bash
+#1709072432
+nvim .bashrc
