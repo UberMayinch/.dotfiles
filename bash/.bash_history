@@ -3405,3 +3405,281 @@ source .bashrc
 gh
 #1708809686
 dfs
+#1708809688
+git add .
+#1708809695
+git commit -m "added aliases"
+#1708809698
+gh
+#1708809701
+git push origin
+#1708809737
+cd
+#1708809740
+desktop
+#1708809749
+cd Desktop/Projects/
+#1708809753
+cd nerd-corner/
+#1708809763
+ls -a
+#1708809768
+cd ../
+#1708809797
+mv nerd-corner/ nerd-corner-old
+#1708809805
+git clone https://github.com/UberMayinch/nerd-corner.git
+#1708809809
+cd nerd-corner
+#1708809812
+rm *
+#1708809814
+ls -a
+#1708809815
+cd ../
+#1708809819
+cd nerd-corner-old/
+#1708809822
+mv * ../nerd-corner
+#1708809826
+cd ../
+#1708809829
+gh
+#1708809834
+cd nerd-corner
+#1708809836
+git add .
+#1708809840
+git commit -m "changes"
+#1708809843
+git push origin
+#1708809853
+gh
+#1708809857
+git push origin
+#1708809872
+gh
+#1708809879
+cd
+#1708809883
+xclip .pac
+#1708809892
+cd -
+#1708809912
+man xclip
+#1708810072
+cd
+#1708810075
+xclip .pac
+#1708810081
+xclip -o
+#1708810151
+sudo apt install xclipboard
+#1708810165
+sudo apt install x11-apps
+#1708810183
+xclip -selection XA_CLIPBOARD .pac
+#1708810210
+xclip -selection clipboard .pac
+#1708810223
+dfs
+#1708810225
+cd bash
+#1708810228
+cd .oh-my-bash/
+#1708810230
+cd custom/
+#1708810233
+nvim 
+#1708810235
+nvim .
+#1708810252
+cd
+#1708810255
+source .bashrc
+#1708810256
+cd -
+#1708810258
+gh
+#1708810262
+git add .
+#1708810271
+git commit -m "changed alias for token"
+#1708810276
+git push origin
+#1708810282
+cd
+#1708810287
+cd Desktop/Projects/nerd-corner
+#1708810290
+git add .
+#1708810294
+git commit -m "changes"
+#1708810297
+git push origin
+#1708817408
+cd
+#1708817412
+sudo apt install okular
+#1708817482
+cd Downloads/
+#1708817491
+okular Jiddu\ Krishnamurti\,\ David\ Bohm\ -\ The\ Ending\ of\ Time_\ Where\ Philosophy\ and\ Physics\ Meet-HarperOne\ \(2014\).epub 
+#1708817498
+okular Jiddu\ Krishnamurti\,\ David\ Bohm\ -\ The\ Ending\ of\ Time_\ Where\ Philosophy\ and\ Physics\ Meet-HarperOne\ \(2014\).epub &
+#1708835514
+cd Desktop/
+#1708835540
+mkdir Reading
+#1708835544
+mkdir Writing
+#1708835565
+cd Downloads/
+#1708835570
+rm Task*
+#1708835584
+rm *.pickle
+#1708835595
+rm 2022113005.zip 
+#1708835610
+mv SRS_Document_Changes.pdf ../Desktop/College/DASS/
+#1708835616
+rm report.pdf 
+#1708835624
+mv VE\ CLASS\ 2.pdf ../Desktop/College/DASS/
+#1708835631
+rm README.md 
+#1708835632
+nvim OFL.txt 
+#1708835637
+rm OFL.txt 
+#1708835646
+mv TestPlan.xls ../Desktop/College/DASS/
+#1708835656
+mv Bio_Struct_A2.pdf ../Desktop/College/
+#1708835681
+mv Carl\ Branden\,\ John\ Tooze\ -\ Introduction\ to\ Protein\ Structure-Garland\ Science\ \(1999\).pdf ../Desktop/College/
+#1708835688
+rm 21-SS133.pdf 
+#1708835696
+mv Charles\ Trapp\,\ Marshall\ Cady\,\ Carmen\ Giunta\,\ Peter\ Atkins\,\ Julio\ De\ Paula\ -\ Physical\ Chemistry\ 9th\ Edition\ Instructor\'s\ Solutions\ Manual\ to\ Accompany\ Atkins\'\ Physical\ Chemistry-Oxford\ University\ Press.pdf ../Desktop/College/
+#1708835710
+mv * ../Desktop/Reading/
+#1708835717
+dfs
+#1708835724
+cd
+#1708835727
+cd Desktop/
+#1708835730
+cd Re
+#1708835751
+rm -r Writing/
+#1708836363
+obsidian
+#1708836410
+sudo snap install obsidian
+#1708836500
+Ls
+#1708836508
+mkdir zK
+#1708836514
+rm -r zK
+#1708836515
+mkdir zk
+#1708836547
+cd zk
+#1708836549
+git init
+#1708836563
+git remote set origin
+#1708836801
+git remote add origin https://github.com/UberMayinch/zk.git
+#1708836857
+touch check.md
+#1708836866
+nvim check.md
+#1708836895
+git add .
+#1708836897
+git push origin
+#1708836910
+git push -u origin master
+#1708836934
+git push -u origin main
+#1708836947
+git branch -M main
+#1708836950
+git add .
+#1708836954
+git commit -m "check"
+#1708836966
+git push -u origin main
+#1708836969
+gh
+#1708836971
+git push -u origin main
+#1708858219
+obsidian
+#1708858226
+sudo snap install obsidian
+#1708946013
+cd zk
+#1708946017
+gh
+#1708946021
+git add .
+#1708946026
+git commit -m "changes"
+#1708946028
+git push origin
+#1708949361
+okular Desktop/College/Peter\ Atkins\,\ Julio\ de\ Paula\ -\ Atkins\'\ Physical\ chemistry-W.\ H.\ Freeman\ \(2010\).pdf &
+#1709035759
+cd Desktop/CS
+#1709035760
+s
+#1709035771
+okular \(MIT\ Electrical\ Engineering\ and\ Computer\ Science\)\ Hal\ Abelson_\ Gerald\ Jay\ Sussman\ -\ Structure\ and\ Interpretation\ of\ Computer\ Programs-MIT\ Press\ \(2016\).pdf &
+#1709036378
+sudo apt get racket
+#1709036386
+sudo apt install racket
+#1709036433
+racjet
+#1709036436
+racket
+#1709038201
+sudo apt install emacs
+#1709038217
+emacs
+#1709038300
+ls -a
+#1709038312
+rm -r .emacs.d
+#1709038314
+dfs
+#1709038317
+mkdir emacs
+#1709038321
+cd emacs
+#1709038330
+mkdir .emacs.d
+#1709038335
+cd .emacs.d
+#1709038395
+touch init.el
+#1709038398
+nvim init.el 
+#1709038402
+cd ../
+#1709038405
+stow emacs
+#1709038407
+../
+#1709038409
+ls -a
+#1709038412
+emacs
+#1709038763
+dfs
