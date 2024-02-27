@@ -3745,3 +3745,103 @@ dfs
 cd bash
 #1709072432
 nvim .bashrc
+#1709072448
+git add .
+#1709072457
+git commit -m "changed editor"
+#1709072458
+gh
+#1709072460
+git push origin
+#1709072469
+cd
+#1709072473
+source .bashrc
+#1709072448
+git add .
+#1709072457
+git commit -m "changed editor"
+#1709072458
+gh
+#1709072460
+git push origin
+#1709072469
+cd
+#1709072473
+source .bashrc
+#1709072476
+
+#1709072519
+
+#1709072538
+
+#1709072542
+echo "HI"
+#1709072565
+
+#1709072568
+
+#1709072576
+
+#1709072590
+cd Desktop/CS
+#1709072598
+nvim check
+#1709072606
+mv check check.rs
+#1709072629
+nvim check.rkt
+#1709072641
+racket < check.rkt
+#1709072654
+rm check.rkt
+#1709073226
+cd
+#1709073750
+sudo apt install ghci
+#1709073758
+sudo apt install haskell
+#1709074417
+dfs
+#1709074420
+nvim bash
+#1709074458
+cd bash
+#1709074460
+nvim .bashrc
+#1709074469
+cd .oh-my-bash/
+#1709074472
+cd custom/
+#1709074475
+cd aliases
+#1709074477
+nvim example.aliases.sh 
+#1709074536
+nvim
+#1709074994
+python3 population.py 
+#1709075028
+rm population.py 
+#1709075031
+cs
+#1709075050
+nvim .bashrc
+#1709075057
+dfs
+#1709075078
+.oh-my-bash
+#1709075082
+cd bash
+#1709075084
+.oh-my-bash/
+#1709075086
+cd custom/
+#1709075089
+cd aliases/
+#1709075092
+nvim example.aliases.sh 
+#1709075111
+gh
+#1709075115
+dfs

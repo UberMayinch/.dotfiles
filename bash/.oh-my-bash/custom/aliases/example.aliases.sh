@@ -7,4 +7,5 @@ alias battery='upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E 
 alias dfs='cd; cd .dotfiles'
 alias Android='/usr/local/android-studio/bin/./studio.sh'
 alias gh='cd;xclip -selection clipboard .pac; cd -'
+alias cs='cd; cd Desktop/CS'
 PS1='[\u@\h \W]\$ '
