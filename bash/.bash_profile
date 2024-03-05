@@ -18,3 +18,6 @@ case ":$PATH:" in
 esac
 
 # <<< juliaup initialize <<<
+
+if [ -e /home/chinmay/.nix-profile/etc/profile.d/nix.sh ]; then . /home/chinmay/.nix-profile/etc/profile.d/nix.sh; fi # added by Nix installer
+. "$HOME/.cargo/env"

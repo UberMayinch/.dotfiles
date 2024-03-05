@@ -168,3 +168,6 @@ case ":$PATH:" in
 esac
 
 # <<< juliaup initialize <<<
+
+[ -f "/home/chinmay/.ghcup/env" ] && source "/home/chinmay/.ghcup/env" # ghcup-env
+. "$HOME/.cargo/env"

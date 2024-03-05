@@ -3845,3 +3845,2205 @@ nvim example.aliases.sh
 gh
 #1709075115
 dfs
+#1709075117
+git add .
+#1709075122
+git commit -m "changes"
+#1709075126
+git push origin
+#1709075132
+cs
+#1709075135
+cd
+#1709075136
+source .bashrc
+#1709075137
+cs
+#1709075553
+sudo apt install ghcuup
+#1709075555
+sudo apt install ghcup
+#1709075590
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+#1709075833
+ghci
+#1709075847
+source .bashrc
+#1709075849
+ghci
+#1709075865
+cd Desktop/College/
+#1709075868
+cd D
+#1709075871
+cd DASS/
+#1709075883
+cd ../
+#1709076523
+emacs 
+#1709076535
+zk
+#1709076537
+nvim
+#1709076541
+nvim Process\ takes\ time\ to\ catch\ up.md 
+#1709076575
+nvim Acceptance.md
+#1709077055
+nvim Master.md
+#1709077659
+zk
+#1709077662
+nvim end.md
+#1709094388
+nvim
+#1709094407
+zk
+#1709094409
+git add .
+#1709094414
+git commit -m "changes"
+#1709094416
+git push origin
+#1709094421
+gh
+#1709094434
+git push origin
+#1709094637
+cd ../
+#1709094640
+cd Desktop/
+#1709094642
+cd Projects/
+#1709094649
+rm -rf nerd-corner-old/
+#1709094655
+CD ubermayinch.github.io/
+#1709094657
+ub
+#1709094661
+cd ubermayinch.github.io/
+#1709094669
+cd _posts/
+#1709094685
+cd ../
+#1709094687
+cd pages
+#1709094690
+cd ../
+#1709094693
+nvim _config.yml 
+#1709095795
+cd
+#1709095800
+cd Desktop/Projects/
+#1709095807
+mkdir ubermayinch.github.io_new
+#1709095811
+cd ubermayinch.github.io_new/
+#1709095982
+cd ../
+#1709095987
+rm -rf ubermayinch.github.io_new/
+#1709095987
+rm -rf ubermayinch.github.io_new/
+#1709096017
+
+#1709096034
+git clone https://gitlab.com/ffb-portfolio/websites/flask-boilerplate.git
+#1709096036
+cd flask-boilerplate
+#1709096110
+python3
+#1709096213
+nvim Makefile 
+#1709096227
+make venv
+#1709096248
+sudo apt install python3-venv
+#1709096258
+make venv
+#1709096280
+python3 -m venv venv
+#1709096293
+source venv/bin/activate
+#1709096302
+pip install --upgrade pip
+#1709096313
+pip install -r requirements.txt
+#1709096364
+deactivate
+#1709096368
+python3 -m
+#1709096374
+source venv/bin/activate
+#1709096378
+deactivate
+#1709096382
+source venv/bin/activate
+#1709096399
+make run.p
+#1709096401
+make run.py
+#1709096408
+python3 run.py
+#1709096429
+make run.py
+#1709096435
+nvim Makefile 
+#1709096475
+make run
+#1709096555
+python3 -m pip install -r requirements.txt
+#1709096607
+deactivate
+#1709096612
+cd venv
+#1709096619
+nvim pyvenv.cfg 
+#1709096671
+cd ../
+#1709096678
+rm -rf flask-boilerplate/
+#1709096681
+cd venv
+#1709096693
+cd venv/bin
+#1709096849
+mkdir flask_folio
+#1709096851
+cd flask_folio/
+#1709096857
+nvim main.py
+#1709096863
+pip install flask
+#1709096922
+mv main.py app.py
+#1709096941
+mkdir app
+#1709096947
+mkdir templates
+#1709096959
+mkdir venv
+#1709096964
+mkdir requirements.txt
+#1709096970
+python3 -m venv venv
+#1709096977
+cd venv
+#1709096980
+cd ../
+#1709096983
+source venv/bin/activate
+#1709096991
+pip install
+#1709096996
+pip install --upgrade
+#1709097008
+pip install --upgrade pip
+#1709097016
+pip install flask
+#1709097035
+nvim README.md
+#1709097070
+cd requirements.txt/
+#1709097072
+cd ../
+#1709097076
+rm -r requirements.txt/
+#1709097081
+touch requirements.txt
+#1709097110
+cd app
+#1709097114
+mkdir css
+#1709097118
+mkdir js
+#1709097120
+cd ../
+#1709097870
+lls
+#1709097871
+sl
+#1709097888
+python3 app.py
+#1709097907
+cd templates/
+#1709097928
+cd ../
+#1709097929
+nvim app
+#1709097934
+nvim app.py
+#1709097976
+cd templates/
+#1709097981
+touch index.html
+#1709097983
+nvim index.html 
+#1709097989
+nvim about.html
+#1709098005
+nvim feed.html
+#1709098018
+nvim projects.html
+#1709098024
+cd ../
+#1709098026
+app.py
+#1709098162
+tree
+#1709098221
+<html lang="en">
+#1709098221
+<head>
+#1709098221
+</head>
+#1709098221
+<body>
+#1709098221
+</body>
+#1709098221
+</html>jjjjjjjjjjjjjjjjkk
+#1709098067
+nvim app.py
+#1709098483
+cd templates/
+#1709098493
+cd ../
+#1709098508
+exa --tree
+#1709098531
+nvim app.py
+#1709098585
+cd templates
+#1709098588
+nvim index.html 
+#1709098783
+cd
+#1709098785
+cd -
+#1709098786
+cd ../
+#1709098788
+nvim app
+#1709098792
+nvim app.py
+#1709098029
+python3 app.py
+#1709099962
+cd ../
+#1709099971
+mkdir decomp_walnut
+#1709099976
+xclip | pwd
+#1709099982
+pwd| xclip
+#1709099990
+pwd| xclip -S
+#1709099992
+pwd| xclip -s
+#1709100000
+man xclip
+#1709100028
+man xclip -s clipboard
+#1709100034
+pwd| xclip -s clipboard
+#1709100041
+pwd| xclip --selection clipboard
+#1709100084
+cp .
+#1709100098
+cwd
+#1709100105
+pwd
+#1709100113
+cd Downloads
+#1709100115
+cd 
+#1709100119
+cd Downloads
+#1709100126
+unzip com.daamitt.walnut.app_8.1.6-816_minAPI21\(nodpi\)_apkmirror.com.apk /home/chinmay/Desktop/Projects
+#1709100147
+ils
+#1709100169
+unzip com.daamitt.walnut.app_8.1.6-816_minAPI21\(nodpi\)_apkmirror.com.apk_Decompiler.com.zip /home/chinmay/Desktop/Projects
+#1709100174
+unzip com.daamitt.walnut.app_8.1.6-816_minAPI21\(nodpi\)_apkmirror.com.apk_Decompiler.com.zip 
+#1709100184
+mkdir app
+#1709100191
+mv resources/ sources app
+#1709100195
+mv app /home/chinmay/Desktop/Projects
+#1709100200
+cd /home/chinmay/Desktop/Projects
+#1709100207
+cd app
+#1709100213
+cd ../
+#1709100219
+mv app decomp_walnut/
+#1709100222
+cd decomp_walnut/
+#1709100225
+cd app
+#1709100230
+exa --tree
+#1709100276
+exa --tree -d= 2
+#1709100287
+exa --tree --depth 2
+#1709100290
+exa -h
+#1709100295
+exa --help
+#1709100304
+exa --help | less
+#1709100356
+sudo apt install tree
+#1709100362
+TREE
+#1709100363
+tree
+#1709100371
+man tree
+#1709100423
+sudo apt purge tree
+#1709100435
+tree -D
+#1709100548
+resources/res/layout/inbox_icon_message_layout.xml 
+#1709100556
+nvim resources/res/layout/inbox_icon_message_layout.xml 
+#1709100642
+sources/com/google/firebase/messaging/RemoteMessage.java 
+#1709100654
+nvim sources/com/google/firebase/messaging/RemoteMessage.java 
+#1709100697
+nvim sources/com/clevertap/android/sdk/inbox/CTInboxMessage.java 
+#1709100879
+nvim resources/META-INF/androidx.startup_startup-runtime.version 
+#1709100901
+nvim sources/com/daamitt/walnut/app/permissions 
+#1709101022
+cd source/com/daamitt/walnut/app/permissions
+#1709101026
+nvim a.java
+#1709101044
+nvim R.java 
+#1709101068
+nvim b.java 
+#1709101079
+nvim c.java 
+#1709121631
+okular Desktop/College/Randal\ E.\ Bryant\,\ David\ R.\ O\'Hallaron\ -\ Computer\ Systems_\ A\ Programmer\'s\ Perspective-Pearson\ \(2015\).pdf &
+#1709122800
+racket
+#1709122873
+nvim
+#1709122972
+code .
+#1709122982
+cs
+#1709122984
+code .
+#1709122994
+cd 
+#1709122996
+cd Desktop/
+#1709122999
+cd Projects/
+#1709123006
+mkdir racket_compiler
+#1709123012
+cd racket_compiler/
+#1709123015
+code .
+#1709131195
+cd Desktop/Projects/
+#1709131203
+mkdir agent_orthogonality
+#1709131205
+cd agent_orthogonality/
+#1709131212
+nvim README.md
+#1709131960
+nvim newread.md
+#1709132100
+nvim README.md 
+#1709151641
+dpkg
+#1709151651
+dpkg -h
+#1709151690
+dpkg --list
+#1709151711
+wc -l | dpkg --list
+#1709151723
+dpkg --list | wc -l
+#1709153111
+sh <(curl -L https://nixos.org/nix/install) --no-daemon
+#1709153296
+. /home/chinmay/.nix-profile/etc/profile.d/nix.sh
+#1709153302
+./home/chinmay/.nix-profile/etc/profile.d/nix.sh
+#1709153306
+ls 0a
+#1709153307
+ls -a
+#1709153315
+nvim .nix-profile/
+#1709153385
+nix-env -i hello
+#1709153415
+which hello
+#1709167127
+zk
+#1709167134
+obsidian .
+#1709181319
+okular Desktop/College/Randal\ E.\ Bryant\,\ David\ R.\ O\'Hallaron\ -\ Computer\ Systems_\ A\ Programmer\'s\ Perspective-Pearson\ \(2015\).pdf &
+#1709183823
+sudo apt install pop-extra
+#1709183837
+sudo apt install Pop-extra-icon-theme
+#1709201384
+okular Downloads/Yuxi\ Liu_\ -\ Python\ Machine\ Learning\ By\ Example\ \(2020\).pdf &
+#1709274193
+cs
+#1709274196
+mkdir comp
+#1709274198
+cd comp/
+#1709274202
+mkdir cses
+#1709274205
+cd cses
+#1709274210
+code .
+#1709275873
+g++ hanoi.cpp 
+#1709276141
+code .
+#1709276146
+g++ hanoi.cpp 
+#1709276620
+./a.out
+#1709276765
+g++ hanoi.cpp
+#1709276768
+./a.out
+#1709297971
+emacs -nw
+#1709299687
+cs
+#1709299689
+cd comp/
+#1709299691
+cd CSES
+#1709299694
+cses
+#1709299699
+nvim hanoi.cpp 
+#1709299780
+nvim hano.cpp
+#1709300058
+nvim hanoi.cpp 
+#1709300124
+./a.out
+#1709300239
+nvim hanoi.cpp 
+#1709300266
+g++ hanoi.cpp 
+#1709300269
+./a.out
+#1709300338
+nvim hano.cpp
+#1709300344
+g++ hano.cpp
+#1709300347
+./a.out
+#1709300365
+nvim hano
+#1709300368
+nvim hano.cpp
+#1709300407
+g++ hano.cpp
+#1709300409
+./a.out
+#1709300425
+nvim hano
+#1709300429
+nvim hano.cpp
+#1709300510
+rm hanoi.cpp 
+#1709300516
+mv hano.cpp hanoi.cpp
+#1709300568
+nvim gray.cpp
+#1709300862
+grap.py
+#1709300866
+nvim gray.py
+#1709301166
+python3 gray.py 
+#1709301175
+nvim gray.py
+#1709301188
+python3 gray.py 
+#1709301233
+cat gray.py
+#1709301244
+nvim gray.cpp
+#1709301672
+g++ gray.cpp
+#1709301683
+nvim gray.cpp
+#1709301720
+g++ gray.cpp
+#1709301723
+nvim gray.cpp
+#1709301756
+g++ gray.cpp
+#1709301764
+nvim gray.cpp
+#1709301808
+g++ gray.cpp
+#1709301815
+nvim gray.cpp
+#1709301826
+g++ gray.cpp
+#1709301832
+nvim gray.cpp
+#1709301840
+g++ gray.cpp
+#1709301842
+./a.out
+#1709301849
+nvim gray.cpp
+#1709301880
+./a.out
+#1709301883
+g++ gray.cpp
+#1709301891
+nvim gray.cpp
+#1709301900
+g++ gray.cpp
+#1709301903
+./a.out
+#1709302213
+nvim palreo.cpp
+#1709311369
+nvim palreor.py
+#1709311395
+python3 palreor.py 
+#1709311692
+python3 
+#1709311706
+python3 palreor.py 
+#1709311715
+:q
+#1709311838
+python3 palreor.py 
+#1709311478
+nvim palreor.py 
+#1709312345
+python3 palreor.py 
+#1709312361
+nvim palreor.py 
+#1709312407
+python3 palreor.py 
+#1709312458
+nvim palreor.py 
+#1709312513
+python3 palreor.py 
+#1709312532
+nvim palreor.py 
+#1709312644
+python3 palreor.py 
+#1709312667
+nvim palreor.py 
+#1709312863
+emacs nw
+#1709312948
+emacs --nw
+#1709312958
+emacs -nw
+#1709313016
+cd../  
+#1709313017
+cd ../
+#1709313038
+okular \(MIT\ Electrical\ Engineering\ and\ Computer\ Science\)\ Hal\ Abelson_\ Gerald\ Jay\ Sussman\ -\ Structure\ and\ Interpretation\ of\ Computer\ Programs-MIT\ Press\ \(2016\).pdf &
+#1709325465
+sudo apt install pop-extra-icon-theme
+#1709325499
+sudo apt update
+#1709325508
+sudo apt install pop-icon-theme
+#1709325529
+sudo apt install pop-extra-icon-theme
+#1709325591
+sudo apt update
+#1709325894
+cd
+#1709325898
+cd Desktop/College/
+#1709325900
+cd DASS/
+#1709325904
+mkdir a2
+#1709325905
+cd a2
+#1709325967
+alias a2="cd;cd /home/chinmay/Desktop/College/DASS/a2"
+#1709325969
+cd
+#1709325970
+a2
+#1709325981
+mkdir q1a
+#1709325985
+mkdir q1b
+#1709325988
+cd q1a
+#1709325996
+pip install pylint
+#1709326026
+cd 
+#1709326029
+cd Downloads/
+#1709326044
+mv 2022113005.zip ../Desktop/College/DASS/
+#1709326046
+a2
+#1709326047
+cd ../
+#1709326055
+mkdir a1
+#1709326060
+unzip 2022113005.zip a1
+#1709326063
+unzip 2022113005.zip 
+#1709326077
+mv kaoaa.py a2/q1a
+#1709326079
+a2
+#1709326082
+cd q1a
+#1709326085
+nvim kaoaa.py 
+#1709326104
+mkdir OriginalGame
+#1709326108
+mv kaoaa.py OriginalGame/
+#1709326115
+cd OriginalGame/
+#1709326122
+pylint kaoaa.py 
+#1709326153
+pylint kaoaa.py >initialLint.txt
+#1709326156
+mv initialLint.txt ../
+#1709326158
+cd ../
+#1709326161
+mkdir InitialLint
+#1709326166
+mv initialLint.txt InitialLint
+#1709326178
+cp OriginalGame/kaoaa.py ../
+#1709326195
+mkdir AllLint
+#1709326202
+mv kaoaa.py AllLint/
+#1709326214
+cd ../
+#1709326221
+mv kaoaa.py q1a/AllLint/
+#1709326228
+cd q1a/AllLint/
+#1709326233
+pylint kaoaa.py 
+#1709326238
+nvim kaoaa.py 
+#1709326253
+pylint kaoaa.py 
+#1709326269
+nvim kaoaa.py 
+#1709326291
+pylint kaoaa.py 
+#1709326332
+nvim kaoaa.py 
+#1709326348
+pylint kaoaa.py 
+#1709326357
+nvim kaoaa.py 
+#1709326381
+pylint kaoaa.py 
+#1709326387
+nvim kaoaa.py 
+#1709326425
+pylint kaoaa.py 
+#1709326457
+nvim kaoaa.py 
+#1709326530
+nvim kaoaafinal.py
+#1709326538
+pylint kaoaafinal.py 
+#1709326576
+rm kaoaafinal.py 
+#1709326588
+nvim kf.py
+#1709326596
+pylint kf.py 
+#1709326652
+rm kf.p
+#1709326654
+rm kf.py 
+#1709326658
+nvim kf.py
+#1709326665
+pylint kf.py 
+#1709326681
+nvim kf.py 
+#1709326951
+pylint kf.py 
+#1709326962
+python3 kf.py
+#1709326969
+nvim kf.py 46
+#1709326989
+nvim kf.py 
+#1709327076
+python3 kf.py
+#1709327083
+nvim kf.py 
+#1709327110
+python3 kf.py
+#1709327123
+pylint kf.py
+#1709327157
+pylint kf.py | less
+#1709327406
+pylint kf.py
+#1709327148
+nvim kf.py 
+#1709327530
+cp kf.py kf2.py
+#1709327535
+rm kaoaa.py 
+#1709327542
+mv kf2.py kaoaa.py
+#1709327551
+nvim kaoaa.py 
+#1709327554
+:q
+#1709327568
+pylint kf.py
+#1709327742
+nvim kaoaa.py 
+#1709327751
+nvim new.py
+#1709327757
+pylint new.py
+#1709327841
+nvim new.py
+#1709327877
+pylint new.py
+#1709327890
+nvim new.py
+#1709327983
+nvim kaoaa.py 
+#1709327987
+rm kaoaa.py 
+#1709327992
+nvim kaoa.py
+#1709328020
+pylint kaoa.py
+#1709328030
+rm kaoa.py 
+#1709328054
+nvim new.py
+#1709328179
+pylint kaoa.py
+#1709328182
+pylint new.py
+#1709328200
+nvim new.py
+#1709328288
+pylint new.py
+#1709328294
+nvim new.py
+#1709328312
+pylint new.py
+#1709328339
+nvim new.py
+#1709328398
+pylint new.py
+#1709328413
+nvim new.py
+#1709328465
+pylint new.py
+#1709328502
+nvim new.py
+#1709328532
+pylint new.py
+#1709328541
+nvim new.py
+#1709328578
+pylint new.py
+#1709328592
+nvim new.py
+#1709328628
+pylint new.py
+#1709328638
+nvim new.py
+#1709328709
+pylint new.py
+#1709328719
+nvim new.py
+#1709328748
+pylint new.py
+#1709328754
+nvim new.py
+#1709329609
+cd ../
+#1709329615
+cd q1b
+#1709329649
+mkdir Code
+#1709329652
+cd Code
+#1709329660
+nvim Lucasinitial.py
+#1709329993
+python3 Lucasinitial.py 
+#1709330004
+nvim Lucasinitial.py 
+#1709330061
+python3 Lucasinitial.py 
+#1709330068
+nvim Lucasinitial.py 
+#1709330102
+python3 Lucasinitial.py 
+#1709330111
+nvim Lucasinitial.py 
+#1709330229
+rm Lucasinitial.py 
+#1709330234
+nvim Lucas.py
+#1709330238
+python3 Lucas.py 
+#1709330272
+nvim new.py
+#1709330277
+python3 new.py
+#1709330301
+pylint new.py
+#1709330332
+mv new.py Lucasinitial.py
+#1709330343
+pylint new.py > initial.txt
+#1709330351
+nvim Lucasinitial.py 
+#1709330434
+pylint Lucasinitial.py > new.txt
+#1709330438
+nvim new.txt
+#1709330477
+mv Lucasinitla lucas_initial.py
+#1709330489
+mv Lucasinitial.py lucas_initial.py
+#1709330494
+nvim lucas_initial.py 
+#1709330513
+nvim new.txt 
+#1709330540
+nvim lucas_initial.py
+#1709330581
+mv lucas_initial.py lucas_3.py
+#1709330591
+pylint lucas_3.py > 3.txt
+#1709330593
+nvim 3.txt
+#1709330623
+nvim lucas_3.txt
+#1709330628
+nvim lucas
+#1709330631
+nvim lucas_3.py 
+#1709330681
+mv lucas_3.py lucas_4.py
+#1709330693
+pylint lucas_4.py > 4.txt
+#1709330696
+nvim 4.txt
+#1709330707
+nvim Lucas.py
+#1709330751
+nvim lucas_3.py 
+#1709330756
+nvim lucas_4.py
+#1709330797
+cp lucas_4.py lucas_3.py
+#1709330805
+nvim lucas_4.py
+#1709330817
+nvim new.txt
+#1709330877
+cd ../
+#1709330880
+mkdir Lint
+#1709330885
+cd Code
+#1709330950
+mv ! *.py ../lint
+#1709330955
+mv ! *.py ../Lint
+#1709330965
+cd ../
+#1709330981
+mv Code Linter
+#1709330984
+mv Lint Code
+#1709330986
+mv Linter Lint
+#1709330988
+cd Code
+#1709331000
+mv Lucas.py Lucasinitial.py
+#1709331012
+cd ../
+#1709331015
+cd Lint/
+#1709331032
+mv initial.txt lintinitial.txt
+#1709331041
+mv 3.txt lint_3.txt
+#1709331048
+mv 4.txt lint_4.txt
+#1709331052
+mv new.txt lint_2.txt
+#1709331070
+cd ../
+#1709331074
+mkdir q2
+#1709331078
+cd q2
+#1709331082
+pip install unittest
+#1709331105
+pip install unitest
+#1709331207
+mkdir Code
+#1709331209
+cd Code
+#1709331219
+nvim kaprekarroutine.py
+#1709331301
+python3 kaprekarroutine.py 
+#1709373049
+emacs -nw
+#1709373242
+nvim
+#1709373279
+cd Desktop/College/
+#1709373283
+cd DASS/
+#1709373290
+cd a2
+#1709374908
+pylint
+#1709375090
+pylint -v
+#1709375095
+pylint --version
+#1709375603
+pytest -v
+#1709376151
+pytest
+#1709376178
+/usr
+#1709376184
+pytest
+#1709376364
+cd
+#1709376367
+echo $PATH
+#1709376374
+echo $PYTHON
+#1709376376
+echo $PYTHON_PATH
+#1709376392
+python3
+#1709376497
+cd /usr/local/lib/python3.10/dist-packages
+#1709376499
+cd ../
+#1709376501
+ls -a
+#1709376505
+cd dist-packages/
+#1709376506
+ls -a
+#1709376508
+cd ../
+#1709376518
+/home/chinmay/.local/lib/python3.10/site-packages
+#1709376522
+ls -a
+#1709376603
+python3
+#1709377834
+cd
+#1709377842
+cd Desktop/College/
+#1709377845
+mkdir SL2
+#1709377847
+cd SL2
+#1709377850
+c3.txt
+#1709377854
+nvim c3.txt
+#1709379451
+nvim p5.txt
+#1709379800
+nvim p52.txt
+#1709381267
+a2
+#1709381274
+cd Desktop/College/
+#1709381275
+cd DASS/
+#1709381278
+cd a2
+#1709381283
+cd q1b
+#1709381284
+l
+#1709381285
+sls
+#1709381287
+cd Code/
+#1709381295
+python3 lucas_4.py 
+#1709381331
+nvim lucas_4.py
+#1709381377
+cd Desktop/College/
+#1709381383
+cd DASS/a2
+#1709381386
+cd q1b
+#1709381389
+cd Code/
+#1709381397
+python3 lucas_4.py
+#1709381543
+nvim lucas_4.py 
+#1709381629
+nvim lucas_5.py
+#1709381640
+pylint lucas_5.py > new.txt
+#1709381642
+nvim new.txt 
+#1709381673
+pylint lucas_4.py
+#1709381687
+nvim lucas_5.py
+#1709381714
+nvim new.txt
+#1709381734
+nvim lucas_5.py
+#1709381747
+pylint lucas_5.py > new2.txt
+#1709381752
+nvim new2.txt 
+#1709381798
+rm new.txt
+#1709381803
+nvim lucas_6.txt
+#1709381815
+mv lucas_6.txt lucas_6.py
+#1709381825
+pylint lucas_6.py > new.txt
+#1709381831
+nvim new.txt
+#1709381881
+nvim lucas_6.py 
+#1709381889
+pylint lucas_6.py > new.txt
+#1709381893
+rm new.txt
+#1709381894
+pylint lucas_6.py > new.txt
+#1709381896
+nvim new.txt
+#1709381926
+cp lucas_6.py lucas_7.py
+#1709381930
+nvim lucas_7.py
+#1709382028
+pylint lucas_7.py > new3.txt
+#1709382035
+nvim new3.txt 
+#1709382049
+python3 lucas_7.py
+#1709382049
+python3 lucas_7.py
+#1709532620
+
+#1709532629
+cd Desktop/College/DASS/
+#1709532631
+cd a2
+#1709532637
+nvim q3.py
+#1709532907
+python3 q3.py
+#1709532918
+nvim q3.py
+#1709532960
+python3 q3.py
+#1709532987
+nvim q3.py
+#1709533017
+python3 q3.py
+#1709533030
+nvim q3.py
+#1709533043
+python3 q3.py
+#1709533058
+nvim q3.py
+#1709533112
+python3 q3.py
+#1709533123
+nvim q3.py
+#1709533200
+python3 q3.py
+#1709533209
+nvim q3.py
+#1709533254
+python3 q3.py
+#1709533259
+nvim q3.py
+#1709533277
+python3 q3.py
+#1709533282
+nvim q3.py
+#1709533297
+python3 q3.py
+#1709533309
+nvim q3.py
+#1709533322
+python3 q3.py
+#1709533349
+nvim q3.py
+#1709533371
+python3 q3.py
+#1709533380
+nvim q3.py
+#1709533395
+python3 q3.py
+#1709533407
+nvim q3.py
+#1709533420
+python3 q3.py
+#1709533423
+nvim q3.py
+#1709533463
+python3 q3.py
+#1709533469
+nvim q3.py
+#1709533475
+python3 q3.py
+#1709533643
+nvim q3.py
+#1709533765
+cat q3.py
+#1709533743
+nvim test.py
+#1709533940
+python3 q3.py 
+#1709533948
+nvim q3.py
+#1709533977
+python3 q3.py 
+#1709533985
+nvim q3.py
+#1709534002
+python3 q3.py 
+#1709534006
+nvim q3.py
+#1709534020
+python3 q3.py 
+#1709534023
+nvim q3.py
+#1709534035
+python3 q3.py 
+#1709534067
+nvim q3.py
+#1709534074
+python3 q3.py 
+#1709534093
+nvim test.py
+#1709534102
+python3 q3.py 
+#1709534106
+nvim q3.py
+#1709534689
+nvim test.py
+#1709534919
+pytest test.py
+#1709534924
+python3 test.py
+#1709534933
+nvim test.py
+#1709534955
+pytest -s test.py
+#1709534964
+nvim test.py
+#1709534984
+pytest -s test.py
+#1709534992
+nvim test.py
+#1709535015
+pytest -s test.py
+#1709535051
+nvim test.py
+#1709535098
+pytest -s test.py
+#1709535111
+nvim test.py
+#1709535203
+mkdir q3
+#1709535210
+mv q3.py palindrome.py
+#1709535219
+mv *.py q3
+#1709535221
+cd q3
+#1709535226
+mkdir Code
+#1709535231
+mv palindrome.py Code/
+#1709535236
+mkdir Test
+#1709535240
+mv test.py Test
+#1709535242
+cd Test/
+#1709535244
+nvim test.py
+#1709535266
+pytest -s test.py
+#1709535273
+nvim test.py
+#1709535348
+pytest -s test.py
+#1709535394
+nvim test.py
+#1709535404
+pytest -s test.py
+#1709535442
+cd ../
+#1709535446
+cd Test/
+#1709535448
+nvim test.py 
+#1709535458
+python3 test.py
+#1709535516
+cd ../
+#1709535526
+python3 -m Test.test
+#1709535529
+python3 -m Test.test.py
+#1709535551
+cd Test/
+#1709535555
+nvim test.py
+#1709535592
+pytest -s test.py
+#1709535640
+cd ../
+#1709535648
+nvim README.md
+#1709536090
+mkdir q4
+#1709536091
+cd q4
+#1709536111
+mkdir Code
+#1709536113
+cd Code
+#1709536134
+nvim stud_scores.py
+#1709536573
+cd ../
+#1709536578
+mkdir Test
+#1709536580
+cd Test/
+#1709536592
+nvim test_gen.py
+#1709536605
+python3 test_gen.py > out.txt
+#1709536615
+nvim out.txt
+#1709536635
+nvim test_gen.py 
+#1709536653
+python3 test_gen.py > out.txt
+#1709536656
+rm out.txt
+#1709536658
+python3 test_gen.py > out.txt
+#1709536662
+nvim out.txt
+#1709536672
+nvim test_gen.py 
+#1709536726
+rm out.txt 
+#1709536730
+python3 test_gen.py 
+#1709536945
+cd ../
+#1709536950
+cd Code/
+#1709536956
+python3 stud_scores.py 
+#1709536979
+cd ../
+#1709536984
+mkdir Dataset
+#1709536987
+cd Test/
+#1709536994
+mv test_gen.py ../Dataset/
+#1709536996
+cd ../
+#1709536998
+cd Dataset/
+#1709537003
+mv test_gen.py data_gen.py
+#1709537004
+cd ../
+#1709537008
+cd Code
+#1709537013
+nvim stud_scores.py 
+#1709548603
+python3 stud_scores.py
+#1709548610
+nvim stud_scores.py 
+#1709548638
+cd ../
+#1709548639
+cd Dataset/
+#1709548652
+python data_gen.py > dataset.txt
+#1709548657
+python3 data_gen.py > dataset.txt
+#1709548662
+rm dataset.txt 
+#1709548664
+python3 data_gen.py > dataset.txt
+#1709548669
+cd ../
+#1709548671
+cd Code/
+#1709548676
+python3 stud_scores.py 
+#1709548769
+nvim stud_scores.py 
+#1709548870
+python3 stud_scores.py 
+#1709548918
+nvim stud_scores.py 
+#1709549352
+python3 stud_scores.py 
+#1709549361
+nvim stud_scores.py 
+#1709549528
+python3 stud_scores.py 
+#1709549563
+nvim stud_scores.py 
+#1709549687
+python3 stud_scores.py 
+#1709549712
+nvim stud_scores.py 
+#1709549813
+python3 stud_scores.py 
+#1709549902
+cd ../
+#1709549905
+cd Test/
+#1709549916
+nvim 1.txt
+#1709549940
+cd ../Dataset/
+#1709549945
+nvim dataset.txt 
+#1709549957
+cd ../
+#1709549963
+cd Test/
+#1709549966
+nvim 1.txt
+#1709550094
+nvim 2.txt
+#1709550227
+cp 1.txt 2.txt
+#1709550229
+nvim 2.txt 
+#1709550290
+cd ../
+#1709550292
+cd Code/
+#1709550295
+nvim stud_scores.py 
+#1709550331
+python3 stud_scores.py 
+#1709550349
+nvim stud_scores.py 
+#1709550372
+python3 stud_scores.py 
+#1709550382
+nvim stud_scores.py 
+#1709550397
+python3 stud_scores.py 
+#1709550426
+cd -
+#1709550432
+cd Test/
+#1709550434
+nvim 2.txt 
+#1709550458
+cd ../Code/
+#1709550462
+python3 stud_scores.py 
+#1709550551
+nvim stud_scores.py 
+#1709550654
+cd ../Test/
+#1709550659
+nvim test.py
+#1709550677
+nvim test.py 
+#1709550724
+python3 test.py 
+#1709550739
+nvim test.py 
+#1709550796
+cd ../
+#1709550798
+cd Code/
+#1709550801
+cd ../
+#1709550803
+cd Test/
+#1709550811
+pytest -s test.py
+#1709550893
+pip install unitest
+#1709550918
+cd ../
+#1709550924
+cd Test/
+#1709550929
+nvim test.py 
+#1709550963
+pytest -s test.py 
+#1709550974
+nvim test.py 
+#1709551054
+pytest -s test.py 
+#1709551074
+nvim test.py 
+#1709551176
+pytest -s test.py 
+#1709551183
+nvim test.py 
+#1709551203
+pytest -s test.py 
+#1709551218
+nvim test.py 
+#1709551232
+pytest -s test.py 
+#1709551358
+nvim test.py 
+#1709551371
+pytest -s test.py 
+#1709551379
+nvim test.py 
+#1709551439
+pytest -s test.py 
+#1709551479
+nvim test.py 
+#1709551495
+pytest -s test.py 
+#1709551500
+nvim test.py 
+#1709551515
+pytest -s test.py 
+#1709551561
+nvim test.py 
+#1709551587
+cd ../
+#1709551589
+cd Code/
+#1709551591
+nvim stud_scores.py 
+#1709551641
+cd -
+#1709551644
+cd Test/
+#1709551648
+pytest -s test.py
+#1709551710
+cd ../Code/
+#1709551711
+nvim stud_scores.py 
+#1709551907
+python3 stud_scores.py 
+#1709551943
+cd ../Test/
+#1709551948
+nvim test.py 
+#1709551975
+pytest -s test.py
+#1709551983
+cd ../Code/
+#1709551985
+nvim stud_scores.py 
+#1709552002
+cd ../Test/
+#1709552005
+nvim test.py
+#1709552020
+pytest -s test.py
+#1709552034
+cd ../
+#1709552037
+nvim README.md 
+#1709552194
+cd q2
+#1709552197
+cd Code
+#1709552200
+python3 kaprekarroutine.py 
+#1709552292
+cd ../
+#1709552294
+mkdir Test
+#1709552296
+cd Test/
+#1709552304
+nvim test.py
+#1709552348
+cd ../
+#1709552351
+cd Code/
+#1709552356
+cd ../Test/
+#1709552358
+nvim test.py 
+#1709552400
+cd ../Code/
+#1709552402
+nvim kaprekarroutine.py 
+#1709552436
+python3 kaprekarroutine.py 
+#1709552464
+nvim kaprekarroutine.py 
+#1709552499
+cd ../
+#1709552502
+cd Test/
+#1709552503
+nvim test.py 
+#1709552589
+python3 test.py 
+#1709552610
+nvim test.py 
+#1709552629
+python3 test.py 
+#1709552644
+nvim test.py 
+#1709552657
+python3 test.py 
+#1709552709
+nvim test.py 
+#1709552775
+cd ../Code/
+#1709552777
+nvim kaprekarroutine.py 
+#1709552866
+cd ../Test/
+#1709552871
+python3 test.py 
+#1709552880
+nvim test.py 
+#1709552954
+python3 test.py 
+#1709552958
+nvim test.py 
+#1709552972
+python3 test.py 
+#1709552999
+nvim test.py test.py 
+#1709553050
+cd ../Code/
+#1709553053
+nvim kaprekarroutine.py 
+#1709553162
+cd ../Test/
+#1709553166
+nvim testa.py
+#1709553177
+python3 testa.py
+#1709553180
+nvim testa
+#1709553184
+nvim testa.py 
+#1709553223
+python3 testa.py
+#1709553248
+rm testa.py
+#1709553253
+cd ../
+#1709553257
+nvim README.md 
+#1709553300
+cd q2
+#1709553307
+cd q1a
+#1709553314
+cd Test/
+#1709553317
+nvim test.py 
+#1709553317
+nvim test.py 
+#1709554654
+
+#1709554662
+nvim test.py 
+#1709554787
+cp test.py ../Code
+#1709554790
+cd ../Code/
+#1709554794
+python test.py 
+#1709554798
+python3 test.py 
+#1709554876
+cd ../
+#1709554881
+cd q1a
+#1709554888
+cd AllLint/
+#1709554893
+nvim kf.py
+#1709554900
+cd ../
+#1709554921
+cd ../q1b
+#1709554926
+cd Lint/
+#1709554930
+cd ../
+#1709554935
+cd Code/
+#1709554940
+nvim lucas_7.py
+#1709555030
+python3 lucas_7.py
+#1709555034
+nvim lucas_7.py
+#1709555057
+python3 lucas_7.py
+#1709555060
+nvim lucas_7.py
+#1709555075
+python3 lucas_7.py
+#1709555084
+nvim lucas_7.py
+#1709555119
+python3 lucas_7.py
+#1709555177
+nvim lucas_7.py
+#1709555234
+python3 lucas_7.py
+#1709555237
+nvim lucas_7.py
+#1709555263
+python3 lucas_7.py
+#1709555274
+nvim lucas_7.py
+#1709555280
+nvim 1000000
+#1709555284
+python3 lucas_7.py
+#1709555298
+nvim 1000000
+#1709555302
+nvim lucas_7.py
+#1709555327
+python3 lucas_7.py 
+#1709555335
+pylint lucas_7.py 
+#1709555346
+nvim lucas_7.py 
+#1709555384
+pylint lucas_7.py 
+#1709555389
+nvim lucas_7.py 
+#1709555408
+pylint lucas_7.py 
+#1709555414
+cd ../
+#1709555423
+cd Lint/
+#1709555428
+cd ../
+#1709555438
+cd Code/
+#1709555453
+mv *.txt ../Lint/
+#1709555455
+cd ../
+#1709555456
+cd Lint/
+#1709555458
+nvim new
+#1709555462
+nvim new.txt 
+#1709555476
+mv new.txt 6.txt
+#1709555486
+mv 6.txt lint_6.txt
+#1709555490
+nvim new2.txt 
+#1709555504
+mv new2.txt lint_5.txt
+#1709555513
+mv new3.txt lint_7.txt
+#1709555520
+exa --tree
+#1709555523
+tree
+#1709555537
+cd ../
+#1709555541
+cd q1a
+#1709555546
+nvim AllLint/
+#1709555566
+pylint kf.py
+#1709555570
+cd AllLint/
+#1709555572
+pylint kf.py
+#1709555581
+pylint new.py
+#1709555610
+nvim new.py
+#1709555670
+pylint new.py
+#1709555682
+nvim new.py
+#1709555765
+pylint new.py
+#1709555775
+nvim new.py
+#1709555810
+pylint new.py
+#1709555833
+nvim new.tx
+#1709555845
+mv new.tx new.txt
+#1709555857
+nvim new.tx
+#1709555862
+nvim new.py
+#1709555913
+pylint new.py
+#1709555941
+nvim new2.txt
+#1709555945
+cd ../
+#1709555957
+cd q2
+#1709555960
+cd Test/
+#1709555964
+cd ../
+#1709555966
+cd Code/
+#1709555968
+nvim test.py
+#1709555977
+nvim kaprekarroutine.py 
+#1709556028
+nvim test_n.py
+#1709556046
+python3 test_n.py
+#1709556059
+nvim kaprekarroutine.py 
+#1709556093
+python3 test_n.py
+#1709556121
+nvim kaprekarroutine.py 
+#1709556185
+python3 test_n.py
+#1709556193
+nvim kaprekarroutine.py 
+#1709556210
+python3 test_n.py
+#1709556223
+nvim test
+#1709556227
+nvim test_n.py
+#1709556252
+python3 test_n.py
+#1709556268
+nvim test_n.py
+#1709556283
+python3 test_n.py
+#1709556286
+nvim test_n.py
+#1709556305
+python3 test_n.py
+#1709556311
+nvim test_n.py
+#1709556368
+python3 test_n.py
+#1709556379
+python3 kaprekarroutine.py 
+#1709556389
+nvim test_n.py 
+#1709556409
+python3 kaprekarroutine.py 
+#1709556412
+python3 test_n.py
+#1709556431
+mv test_n.py ../Test/
+#1709556436
+rm test.py
+#1709556438
+cd ../Test/
+#1709556441
+rm test.py
+#1709556446
+mv test_n.py test.py
+#1709556472
+cd ../
+#1709556478
+nvim README.md 
+#1709556580
+pip install pygame
+#1709556595
+nvim README.md 
+#1709556751
+cd q1a
+#1709556754
+cd AllLint/
+#1709556755
+nvim
+#1709556767
+mv kf.py kaooafinal.py
+#1709556774
+pylint kaooafinal.py > new3.txt
+#1709556778
+nvim new3.txt
+#1709556799
+nvim kaooafinal.py 
+#1709556819
+pip uninstall pygame
+#1709556822
+nvim kaooafinal.py 
+#1709556826
+pylint kaooafinal.py > new3.txt
+#1709556831
+rm new3.txt
+#1709556832
+pylint kaooafinal.py > new3.txt
+#1709556836
+nvim new3.txt 
+#1709556855
+mv kaoofinal.py kf.py
+#1709556859
+mv kaooafinal.py kf.py
+#1709556864
+mv new.py kaooafinal.py
+#1709556870
+pylint kaooafinal.py 
+#1709556875
+pip install pygame
+#1709556880
+pylint kaooafinal.py 
+#1709556915
+nvim new4.txt
+#1709556963
+nvim kaooafinal.py 
+#1709556990
+pylint kaooafinal.py 
+#1709557001
+nvim kaooafinal.py 
+#1709557004
+pylint kaooafinal.py 
+#1709557059
+nvim new3.txt
+#1709557067
+nvim new.txt
+#1709557073
+nvim new4.txt 
+#1709557085
+nvim new2.txt 
+#1709557098
+mv new2.txt lint_final.txt
+#1709557113
+mv new3 lint3.txt
+#1709557120
+mv new4 lint2.txt
+#1709557126
+mv new.txt lint5.txt
+#1709557133
+mv kf.py new.py
+#1709557141
+cd ../
+#1709557157
+nvim README.md 
+#1709557338
+zip * 2022113005
+#1709557349
+cd ../
+#1709557358
+cd a2
+#1709557394
+rm -rf __pycache__*
+#1709557404
+zip * 2022113005
+#1709557415
+unzip q1a.zip 
+#1709557430
+rm -r q1a.zip
+#1709557456
+zip -r 2022113005 *
+#1709576053
+cs
+#1709576063
+mkdir julia
+#1709576065
+cd julia
+#1709576073
+touch new.jl
+#1709576075
+code .
+#1709576080
+open
+#1709576082
+open .
+#1709576304
+pip install devinterp
+#1709576713
+devinterp
+#1709576717
+python3 devinterp
+#1709576722
+pip install devinterp
+#1709576821
+python3 devinterp
+#1709576825
+pip install devinterp
+#1709576833
+pip uninstall unitest
+#1709576838
+devinterp
+#1709586915
+CS
+#1709586917
+cs
+#1709586920
+cd comp/
+#1709586923
+cd cses/
+#1709586927
+nvim palreor.py 
+#1709586946
+python palreor.py
+#1709586951
+python3 palreor.py
+#1709586958
+python palreor.py
+#1709586961
+python3 palreor.py
+#1709587046
+nvim twoset.cpp
+#1709588102
+g++ twoset.cpp 
+#1709588112
+nvim twoset.cpp 
+#1709588180
+g++ twoset.cpp 
+#1709588193
+nvim twoset.cpp 
+#1709588267
+g++ twoset.cpp 
+#1709588273
+nvim twoset.cpp 
+#1709588288
+g++ twoset.cpp 
+#1709588299
+nvim twoset.cpp 
+#1709588356
+g++ twoset.cpp 
+#1709588369
+nvim twoset.cpp 
+#1709588461
+g++ twoset.cpp 
+#1709588466
+./a.out
+#1709588483
+nvim twoset.cpp 
+#1709588493
+g++ twoset.cpp 
+#1709588495
+./a.out
+#1709588524
+nvim twoset.cpp 
+#1709588644
+g++ twoset.cpp 
+#1709588650
+nvim twoset.cpp 
+#1709588659
+g++ twoset.cpp 
+#1709588663
+./a.out
+#1709588671
+nvim twoset.cpp 
+#1709588686
+g++ twoset.cpp 
+#1709588689
+./a.out
+#1709588735
+nvim twoset.cpp 
+#1709588913
+g++ twoset.cpp 
+#1709588923
+nvim twoset.cpp 
+#1709588945
+g++ twoset.cpp 
+#1709620800
+cs
+#1709620806
+cd comp
+#1709620808
+cd cses
+#1709620819
+nvim subsum1.cpp
+#1709621264
+g++ subsum1.cpp 
+#1709621266
+./a.out
+#1709621281
+nvim subsum1.cpp
+#1709621297
+g++ subsum1.cpp 
+#1709621300
+./a.out
+#1709621311
+nvim subsum1.cpp
+#1709621331
+g++ subsum1.cpp 
+#1709621337
+./a.out
+#1709621349
+nvim subsum1.cpp
+#1709621363
+g++ subsum1.cpp 
+#1709621366
+./a.out
+#1709621383
+nvim subsum1.cpp
+#1709621511
+g++ subsum1.cpp 
+#1709621514
+./a.out
+#1709621528
+nvim subsum1.cpp
+#1709621565
+g++ subsum1.cpp 
+#1709621567
+./a.out
+#1709621576
+nvim subsum1.cpp
+#1709621659
+g++ subsum1.cpp 
+#1709621661
+./a.out
+#1709621785
+nvim subsum1.cpp
+#1709621893
+g++ subsum1.cpp 
+#1709621895
+./a.out
+#1709621913
+nvim subsum1.cpp
+#1709622019
+g++ subsum1.cpp 
+#1709622022
+nvim subsum1.cpp
+#1709622039
+g++ subsum1.cpp 
+#1709622041
+./a.out
+#1709622048
+nvim subsum1.cpp
+#1709622057
+g++ subsum1.cpp 
+#1709622059
+./a.out
+#1709624777
+sudo apt install sbcl
+#1709624889
+sbcl
+#1709625564
+cs
+#1709625567
+cd comp
+#1709625570
+cd cses
+#1709625578
+nvim misscoinsum.cpp
+#1709625692
+g++ misscoinsum.cpp 
+#1709625713
+nvim misscoinsum.cpp
+#1709625729
+g++ misscoinsum.cpp 
+#1709625733
+./a.out
+#1709625733
+./a.out
+#1709625753
+
+#1709625759
+nvim misscoinsum.cpp 
+#1709626462
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+#1709626522
+rustc --version
+#1709626528
+rustup
+#1709626536
+dfs
+#1709626539
+source .bashrc
+#1709626543
+gh
