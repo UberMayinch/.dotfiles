@@ -171,3 +171,6 @@ esac
 
 [ -f "/home/chinmay/.ghcup/env" ] && source "/home/chinmay/.ghcup/env" # ghcup-env
 . "$HOME/.cargo/env"
+
+#zoxide initialization
+source .zoxideconf
