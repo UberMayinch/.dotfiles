@@ -23,6 +23,14 @@ Use the following command for whatever package you want to use my configuration 
 ```stow <package-name>```
 
 
-
+Bash Plugins used:
+fzf fuzzy finder
+'''<ctrl> + r ''' performs backward search through all commands in history
+'''<ctrl> + t''' fuzzy finds through your file system recursively starting from the directory it is called at.
+zoxide - better cd  
+'''zi foo''' cd with interactive (fuzzy) selection
+'''z'''
+exa - better ls and tree
+android studio, ruby version manager, rustup, juliaup will be added to path 
 
 

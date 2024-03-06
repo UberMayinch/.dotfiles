@@ -6047,3 +6047,649 @@ dfs
 source .bashrc
 #1709626543
 gh
+#1709626546
+git add .
+#1709626554
+git commit -m "rust added to path"
+#1709626557
+git push origin
+#1709626568
+cd
+#1709626570
+source .bashrc
+#1709626573
+rustc --v
+#1709626576
+rustc --version
+#1709626626
+cd Desktop/Projects/
+#1709626630
+mkdir rust
+#1709626631
+cd rsut
+#1709626661
+nvim main.rs
+#1709626691
+rustc main.rs
+#1709626693
+./main
+#1709626731
+rustfmt main.rx
+#1709626733
+rustfmt main.rs
+#1709626736
+nvim main.rs
+#1709626842
+cargo --version
+#1709626864
+cargo new hello_cargo
+#1709626870
+cd hello_cargo/
+#1709626882
+ls -a
+#1709626910
+nvim Cargo.toml 
+#1709626966
+nvim main.rs
+#1709626986
+cd src
+#1709626989
+nvim main.rs 
+#1709627022
+cd ../
+#1709627028
+cargo build
+#1709627036
+cd target/
+#1709627043
+cd debug/
+#1709627048
+./hello_cargo
+#1709627075
+cd ../../
+#1709627079
+cargo run
+#1709627165
+cd .././
+#1709627184
+cargo new guessing_game
+#1709627191
+cd guessing_game/
+#1709627213
+cargo run
+#1709627217
+cd src
+#1709627220
+nvim main.rs 
+#1709628220
+cd Downloads
+#1709628223
+cs
+#1709628232
+cd
+#1709628234
+cd Downloads/
+#1709628241
+mv Peter\ Seibel\ -\ Practical\ Common\ Lisp-Apress\ \(2005\).pdf /home/chinmay/Desktop/CS
+#1709628243
+cs
+#1709629017
+cd comp
+#1709629045
+nvim 1937A.cpp
+#1709629138
+g++ 1937A.cpp 
+#1709629143
+nvim 1937A.cpp 
+#1709629152
+g++ 1937A.cpp 
+#1709629155
+./a.out
+#1709629167
+nvim 1937A.cpp 
+#1709629219
+g++ 1937A.cpp 
+#1709629221
+./a.out
+#1709629236
+nvim 1937A.cpp 
+#1709629258
+./a.out
+#1709629260
+g++ 1937A.cpp 
+#1709629264
+./a.out
+#1709629271
+nvim 1937A.cpp 
+#1709629291
+g++ 1937A.cpp 
+#1709629293
+./a.out
+#1709629300
+nvim 1937A.cpp 
+#1709629346
+g++ 1937A.cpp 
+#1709629348
+./a.out
+#1709629356
+nvim 1937A.cpp 
+#1709629389
+g++ 1937A.cpp 
+#1709629391
+./a.out
+#1709635810
+nvim check.s
+#1709635945
+nvim check.c
+#1709636024
+nvim check.s
+#1709636863
+nvim check.c
+#1709637006
+nvim check.s
+#1709637026
+nvim check.c
+#1709637123
+gcc check.c check.s
+#1709637141
+nvim check.s
+#1709637173
+gcc check.c check.s
+#1709637178
+nvim check.s
+#1709637182
+gcc check.c check.s
+#1709637198
+nvim check.c
+#1709637211
+gcc check.c check.s
+#1709637240
+nvim check.s
+#1709637253
+gcc check.c check.s
+#1709637259
+nvim check.s
+#1709637268
+nvim check.c
+#1709637287
+gcc check.c check.s
+#1709637303
+nvim check.c
+#1709637306
+nvim check.s
+#1709637363
+gcc check.c check.s
+#1709637365
+nvim check.s
+#1709637371
+nvim check.c
+#1709637423
+gcc check.c check.s
+#1709637436
+nvim check.s
+#1709637503
+gcc check.c check.s
+#1709637506
+./a.out
+#1709637516
+nvim check.sc
+#1709637519
+nvim check.c
+#1709637551
+gcc check.c check.s
+#1709637553
+./a.out
+#1709637558
+nvim check.c
+#1709637574
+gcc check.c check.s
+#1709637576
+./a.out
+#1709637596
+nvim check.c
+#1709637600
+nvim check.s
+#1709637650
+nvim check.c
+#1709637699
+gdb ./a.out
+#1709637703
+sudo apt install gdb
+#1709637748
+gdb ./a.out
+#1709637807
+gdbtui
+#1709637821
+gdbtui ./a.out
+#1709637849
+gdbtui check.s
+#1709637877
+gdbtui ./a.out
+#1709638034
+nvim check.s
+#1709638067
+gcc check.c check.s
+#1709638073
+gcc -g check.c check.s
+#1709638074
+gdb
+#1709638079
+gdbtui
+#1709638105
+gdbtui ./a.out
+#1709638214
+ls -a
+#1709638219
+cd -
+#1709638221
+cd Desktop/College/
+#1709638232
+nvim
+#1709638286
+cs
+#1709638288
+cd comp
+#1709638299
+gcc check.c check.s
+#1709638314
+gcc -g -c check.c check.s
+#1709638321
+gdbtui ./a.out
+#1709638339
+ls -a
+#1709638345
+gdbtui check.o
+#1709628438
+okular Peter\ Seibel\ -\ Practical\ Common\ Lisp-Apress\ \(2005\).pdf 
+#1709667482
+LS
+#1709667484
+cs
+#1709667609
+dfs
+#1709667613
+nvim README.md 
+#1709667843
+cd bash
+#1709667846
+nvim .bashrc
+#1709667853
+cd ../
+#1709667859
+curl -sS https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | bash
+#1709667899
+z bash
+#1709667905
+source .bashrc
+#1709667907
+cd
+#1709667909
+source .bashrc
+#1709667929
+zi comp
+#1709667956
+zoxide
+#1709668006
+zoxide init --cmd cd
+#1709668013
+zoxide init --cmd cd bash
+#1709668038
+nvim .bashrc
+#1709668053
+source .bashrc
+#1709668054
+cdi
+#1709668058
+cdi foo
+#1709668061
+zi
+#1709668088
+cs
+#1709668091
+cd
+#1709668094
+cs
+#1709668096
+cd comp
+#1709668098
+cd
+#1709668099
+cd comp
+#1709668107
+source .bashrc
+#1709668109
+zoxide
+#1709668118
+zoxide init
+#1709668122
+zoxide init bash
+#1709668177
+zoxide init --cmd cd bash
+#1709668203
+dfs
+#1709668203
+lls
+#1709668208
+cd bash
+#1709668212
+ls -al
+#1709668225
+nvim .zoxideconf
+#1709668250
+chmod +755 .zoxideconf
+#1709668252
+ls -a
+#1709668256
+nvim .bashrc
+#1709668273
+source .bashrc
+#1709668275
+cd
+#1709668278
+cd bash
+#1709668284
+cdi comp
+#1709668290
+cd bash
+#1709668299
+git add .zoxideconf .bashrc
+#1709668300
+gh
+#1709668310
+git commit -m "added zoxide"
+#1709668312
+git push origin
+#1709668459
+dfs
+#1709668464
+stow bash
+#1709668581
+dfs
+#1709668583
+cd bash
+#1709668587
+ls -a
+#1709668595
+ln -s .zoxidconf ~/
+#1709668597
+cd 
+#1709668598
+ls -a
+#1709668606
+nvim .bashrc
+#1709668620
+source .bashrc
+#1709668638
+rm .zoxidconf 
+#1709668640
+cd -
+#1709668645
+ls -a
+#1709668654
+ln -s .zoxideconf ~/
+#1709668656
+cd
+#1709668657
+ls -a
+#1709668662
+source .bashrc
+#1709668726
+rm .bash_history && dfs && stow bash
+#1709668730
+cd
+#1709668731
+ls -a
+#1709668738
+source .bashrc
+#1709668571
+bash
+#1709668745
+comp
+#1709668747
+cd comp
+#1709668750
+cd MDl
+#1709668753
+cd MDL
+#1709668755
+cd
+#1709668757
+cd MDL
+#1709668760
+cd DASS
+#1709668763
+cdi DASS
+#1709668770
+cdi Projects
+#1709668774
+cd Desktop/
+#1709668776
+cd College/
+#1709668780
+cd MDL
+#1709668781
+cd
+#1709668782
+MDL
+#1709668784
+cd MDL
+#1709668788
+cd 
+#1709668792
+cd DASS
+#1709668797
+cd MDL
+#1709668800
+cd ../DASS/
+#1709668802
+cd 
+#1709668905
+cd
+#1709668906
+cd Downloads
+#1709668914
+mv CSO1A2024.pdf CSO
+#1709668926
+mv CSO CSOA1
+#1709668930
+CSO
+#1709668934
+MDL
+#1709668937
+cd MDL
+#1709668938
+pwd
+#1709668944
+cd -
+#1709668953
+mv CSOA1 /home/chinmay/Desktop/College/MDL
+#1709668955
+cd MDL
+#1709668960
+mv CSOA1 ../
+#1709668962
+cd ../
+#1709668966
+mkdir CSO
+#1709668970
+mv Randal\ E.\ Bryant\,\ David\ R.\ O\'Hallaron\ -\ Computer\ Systems_\ A\ Programmer\'s\ Perspective-Pearson\ \(2015\).pdf CSO
+#1709668975
+mv CSOA1 CSO
+#1709668976
+cd CSO
+#1709668981
+mkdir a1
+#1709668983
+cd a1
+#1709668985
+mkdir q1
+#1709668989
+cd q1
+#1709668993
+nvim q1.c
+#1709669140
+gcc q1.c
+#1709669145
+nvim check.c
+#1709669149
+nvim q1.c
+#1709669159
+gcc q1.c
+#1709669162
+./a.out
+#1709669344
+nvim q1.c
+#1709669427
+nvim q1.s
+#1709670418
+cd ../
+#1709670428
+nvim mergesort.s
+#1709670448
+nvim mergesort.c
+#1709670428
+nvim mergesort.s
+#1709670598
+
+#1709670606
+nvim mergesort.c
+#1709671069
+gcc mergesort.c
+#1709671089
+nvim mergesort.c
+#1709671095
+gcc mergesort.c
+#1709671125
+nvim mergesort.
+#1709671127
+nvim mergesort.c
+#1709671135
+gcc mergesort.c
+#1709671152
+nvim mergesort.c
+#1709671175
+gcc mergesort.c
+#1709671187
+nvim mergesort.c
+#1709671269
+clang
+#1709671290
+sudo apt install clang-format
+#1709671321
+clang-format -i mergesort.c
+#1709671703
+zk
+#1709671709
+cd
+#1709671710
+zk
+#1709671719
+nvim C_naming convention
+#1709671736
+mv C_naming C_naming.md
+#1709671326
+nvim mergesort.c
+#1709672110
+clang-format -h
+#1709672141
+clang-format -i mergesort.c
+#1709672144
+nvim mergesort.c
+#1709672323
+gcc mergesort.c
+#1709672325
+./a.out
+#1709672334
+nvim mergesort.c
+#1709672366
+gcc mergesort.c
+#1709672369
+./a.out
+#1709672378
+nvim mergesort.c
+#1709672402
+gcc mergesort.c
+#1709672403
+nvim mergesort.c
+#1709672408
+./a.out
+#1709672416
+nvim mergesort.c
+#1709672425
+gcc mergesort.c
+#1709672427
+./a.out
+#1709672435
+nvim mergesort.c
+#1709672586
+gcc mergesort.c
+#1709672588
+./a.out
+#1709672614
+nvim mergesort.c
+#1709672656
+gcc mergesort.c
+#1709672658
+./a.out
+#1709672728
+gcc -s -03 -o mergesort.c
+#1709672734
+gcc -s -O3 -o mergesort.c
+#1709672748
+gcc -s -O3 -o mergesort mergesort.c
+#1709672764
+mergesort
+#1709672767
+./mergesort
+#1709672777
+rm mergesort
+#1709672781
+gcc -s mergesort.c
+#1709672789
+nvim mergesort.s
+#1709672793
+rm mergesort.s
+#1709672796
+nvim a.out
+#1709672813
+gcc -C mergesort.c
+#1709672820
+rm a.out
+#1709672852
+cso
+#1709672854
+CSO
+#1709672856
+cd CSO
+#1709672872
+gcc -oS -O3 mergesort.c
+#1709672875
+ls -a
+#1709672879
+nvim S
+#1709672884
+rm S
+#1709672890
+gcc -S mergesort.c
+#1709672894
+nvim mergesort.s
+#1709672938
+rm mergesort.s
+#1709672946
+nvim mergesort.s
+#1709672989
+nvim mergesort.c
+#1709673038
+nvim mergesort.s
+#1709681332
+cd
+#1709682600
+sudo apt install dconf-editor
+#1709682615
+dconf-editor /org/gnome/shell/window-switcher/current-workspace-only
+#1709683107
+gnome -v
+#1709683114
+gnome-shell --version
+#1709683239
+dfs
