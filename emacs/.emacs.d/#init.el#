@@ -1,15 +1,10 @@
+
 (require 'package)
 ;; -*- mode: elisp -*-
 
 ;; Disable the splash screen (to enable it agin, replace the t with 0)
 (menu-bar-mode -1)
-(setq-default default-directory "~/exj")
 (setq inhibit-splash-screen t)
-(setq frame-title-format nil)
-(add-to-list 'initial-frame-alist '(fullscreen . maximized))
-(scroll-bar-mode -1)
-(tool-bar-mode -1)
-
 
 ;; Enable transient mark mode
 (transient-mark-mode 1)
@@ -65,13 +60,9 @@
  ;; Set font color to white
 (set-face-attribute 'default nil :foreground "white")
 ;; Set font face to JetBrains Mono
-(set-face-attribute :family "JetBrains Mono")
-(set-face-attribute 'default nil :height 200 :width 'normal)
-(set-background-color "black")
-(set-frame-parameter (selected-frame) 'alpha '(80))
- )
+(set-face-attribute 'default nil :family "JetBrains Mono")
+(set-face-attribute 'default nil :height 120 :width 120)
 
-'(package-selected-packages '(evil-leader evil))
-(custom-set-faces)
-
+'(package-selected-packages '(evil-leader evil)))
+(custom-set-faces
 
